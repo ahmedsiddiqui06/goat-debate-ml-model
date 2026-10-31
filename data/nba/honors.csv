@@ -1,0 +1,2113 @@
+athlete,sport,season,honor,category,winners,pool_size
+Shai Gilgeous-Alexander,basketball,2025,NBA champion,title,1,30
+Shai Gilgeous-Alexander,basketball,2025,Finals MVP,big_stage,1,26
+Jayson Tatum,basketball,2024,NBA champion,title,1,30
+Nikola Jokić,basketball,2023,NBA champion,title,1,30
+DeAndre Jordan,basketball,2023,NBA champion,title,1,30
+Nikola Jokić,basketball,2023,Finals MVP,big_stage,1,26
+Stephen Curry,basketball,2022,NBA champion,title,1,30
+Stephen Curry,basketball,2022,Finals MVP,big_stage,1,26
+Giannis Antetokounmpo,basketball,2021,NBA champion,title,1,30
+Giannis Antetokounmpo,basketball,2021,Finals MVP,big_stage,1,26
+Anthony Davis,basketball,2020,NBA champion,title,1,30
+Dwight Howard,basketball,2020,NBA champion,title,1,30
+LeBron James,basketball,2020,NBA champion,title,1,30
+LeBron James,basketball,2020,Finals MVP,big_stage,1,26
+Marc Gasol,basketball,2019,NBA champion,title,1,30
+Kawhi Leonard,basketball,2019,NBA champion,title,1,30
+Kawhi Leonard,basketball,2019,Finals MVP,big_stage,1,26
+Stephen Curry,basketball,2018,NBA champion,title,1,30
+Kevin Durant,basketball,2018,NBA champion,title,1,30
+Kevin Durant,basketball,2018,Finals MVP,big_stage,1,26
+Stephen Curry,basketball,2017,NBA champion,title,1,30
+Kevin Durant,basketball,2017,NBA champion,title,1,30
+Kevin Durant,basketball,2017,Finals MVP,big_stage,1,26
+LeBron James,basketball,2016,NBA champion,title,1,30
+LeBron James,basketball,2016,Finals MVP,big_stage,1,26
+Stephen Curry,basketball,2015,NBA champion,title,1,30
+Tim Duncan,basketball,2014,NBA champion,title,1,30
+Kawhi Leonard,basketball,2014,NBA champion,title,1,30
+Kawhi Leonard,basketball,2014,Finals MVP,big_stage,1,26
+LeBron James,basketball,2013,NBA champion,title,1,30
+Dwyane Wade,basketball,2013,NBA champion,title,1,30
+LeBron James,basketball,2013,Finals MVP,big_stage,1,26
+LeBron James,basketball,2012,NBA champion,title,1,30
+Dwyane Wade,basketball,2012,NBA champion,title,1,30
+LeBron James,basketball,2012,Finals MVP,big_stage,1,26
+Jason Kidd,basketball,2011,NBA champion,title,1,30
+Dirk Nowitzki,basketball,2011,NBA champion,title,1,30
+Dirk Nowitzki,basketball,2011,Finals MVP,big_stage,1,26
+Kobe Bryant,basketball,2010,NBA champion,title,1,30
+Kobe Bryant,basketball,2010,Finals MVP,big_stage,1,26
+Kobe Bryant,basketball,2009,NBA champion,title,1,30
+Kobe Bryant,basketball,2009,Finals MVP,big_stage,1,26
+Kevin Garnett,basketball,2008,NBA champion,title,1,30
+Tim Duncan,basketball,2007,NBA champion,title,1,30
+Alonzo Mourning,basketball,2006,NBA champion,title,1,30
+Shaquille O'Neal,basketball,2006,NBA champion,title,1,30
+Gary Payton,basketball,2006,NBA champion,title,1,30
+Dwyane Wade,basketball,2006,NBA champion,title,1,30
+Dwyane Wade,basketball,2006,Finals MVP,big_stage,1,26
+Tim Duncan,basketball,2005,NBA champion,title,1,30
+Tim Duncan,basketball,2005,Finals MVP,big_stage,1,26
+Tim Duncan,basketball,2003,NBA champion,title,1,29
+David Robinson,basketball,2003,NBA champion,title,1,29
+Tim Duncan,basketball,2003,Finals MVP,big_stage,1,26
+Kobe Bryant,basketball,2002,NBA champion,title,1,29
+Shaquille O'Neal,basketball,2002,NBA champion,title,1,29
+Shaquille O'Neal,basketball,2002,Finals MVP,big_stage,1,26
+Kobe Bryant,basketball,2001,NBA champion,title,1,29
+Shaquille O'Neal,basketball,2001,NBA champion,title,1,29
+Shaquille O'Neal,basketball,2001,Finals MVP,big_stage,1,26
+Kobe Bryant,basketball,2000,NBA champion,title,1,29
+Shaquille O'Neal,basketball,2000,NBA champion,title,1,29
+Shaquille O'Neal,basketball,2000,Finals MVP,big_stage,1,26
+Tim Duncan,basketball,1999,NBA champion,title,1,29
+David Robinson,basketball,1999,NBA champion,title,1,29
+Tim Duncan,basketball,1999,Finals MVP,big_stage,1,26
+Michael Jordan,basketball,1998,NBA champion,title,1,29
+Scottie Pippen,basketball,1998,NBA champion,title,1,29
+Michael Jordan,basketball,1998,Finals MVP,big_stage,1,26
+Michael Jordan,basketball,1997,NBA champion,title,1,29
+Scottie Pippen,basketball,1997,NBA champion,title,1,29
+Michael Jordan,basketball,1997,Finals MVP,big_stage,1,26
+Michael Jordan,basketball,1996,NBA champion,title,1,29
+Scottie Pippen,basketball,1996,NBA champion,title,1,29
+Michael Jordan,basketball,1996,Finals MVP,big_stage,1,26
+Clyde Drexler,basketball,1995,NBA champion,title,1,27
+Hakeem Olajuwon,basketball,1995,NBA champion,title,1,27
+Hakeem Olajuwon,basketball,1995,Finals MVP,big_stage,1,26
+Hakeem Olajuwon,basketball,1994,NBA champion,title,1,27
+Hakeem Olajuwon,basketball,1994,Finals MVP,big_stage,1,26
+Michael Jordan,basketball,1993,NBA champion,title,1,27
+Scottie Pippen,basketball,1993,NBA champion,title,1,27
+Michael Jordan,basketball,1993,Finals MVP,big_stage,1,26
+Michael Jordan,basketball,1992,NBA champion,title,1,27
+Scottie Pippen,basketball,1992,NBA champion,title,1,27
+Michael Jordan,basketball,1992,Finals MVP,big_stage,1,26
+Michael Jordan,basketball,1991,NBA champion,title,1,27
+Scottie Pippen,basketball,1991,NBA champion,title,1,27
+Michael Jordan,basketball,1991,Finals MVP,big_stage,1,26
+Isiah Thomas,basketball,1990,NBA champion,title,1,27
+Isiah Thomas,basketball,1990,Finals MVP,big_stage,1,26
+Isiah Thomas,basketball,1989,NBA champion,title,1,25
+Kareem Abdul-Jabbar,basketball,1988,NBA champion,title,1,23
+Magic Johnson,basketball,1988,NBA champion,title,1,23
+Kareem Abdul-Jabbar,basketball,1987,NBA champion,title,1,23
+Magic Johnson,basketball,1987,NBA champion,title,1,23
+Magic Johnson,basketball,1987,Finals MVP,big_stage,1,26
+Larry Bird,basketball,1986,NBA champion,title,1,23
+Dennis Johnson,basketball,1986,NBA champion,title,1,23
+Kevin McHale,basketball,1986,NBA champion,title,1,23
+Bill Walton,basketball,1986,NBA champion,title,1,23
+Larry Bird,basketball,1986,Finals MVP,big_stage,1,26
+Kareem Abdul-Jabbar,basketball,1985,NBA champion,title,1,23
+Magic Johnson,basketball,1985,NBA champion,title,1,23
+Bob McAdoo,basketball,1985,NBA champion,title,1,23
+Kareem Abdul-Jabbar,basketball,1985,Finals MVP,big_stage,1,26
+Larry Bird,basketball,1984,NBA champion,title,1,23
+Dennis Johnson,basketball,1984,NBA champion,title,1,23
+Kevin McHale,basketball,1984,NBA champion,title,1,23
+Larry Bird,basketball,1984,Finals MVP,big_stage,1,26
+Julius Erving,basketball,1983,NBA champion,title,1,23
+Moses Malone,basketball,1983,NBA champion,title,1,23
+Moses Malone,basketball,1983,Finals MVP,big_stage,1,26
+Kareem Abdul-Jabbar,basketball,1982,NBA champion,title,1,23
+Magic Johnson,basketball,1982,NBA champion,title,1,23
+Bob McAdoo,basketball,1982,NBA champion,title,1,23
+Magic Johnson,basketball,1982,Finals MVP,big_stage,1,26
+Tiny Archibald,basketball,1981,NBA champion,title,1,23
+Larry Bird,basketball,1981,NBA champion,title,1,23
+Kevin McHale,basketball,1981,NBA champion,title,1,23
+Kareem Abdul-Jabbar,basketball,1980,NBA champion,title,1,22
+Spencer Haywood,basketball,1980,NBA champion,title,1,22
+Magic Johnson,basketball,1980,NBA champion,title,1,22
+Magic Johnson,basketball,1980,Finals MVP,big_stage,1,26
+Dennis Johnson,basketball,1979,NBA champion,title,1,22
+Gus Williams,basketball,1979,NBA champion,title,1,22
+Dennis Johnson,basketball,1979,Finals MVP,big_stage,1,26
+Elvin Hayes,basketball,1978,NBA champion,title,1,22
+Wes Unseld,basketball,1978,NBA champion,title,1,22
+Wes Unseld,basketball,1978,Finals MVP,big_stage,1,26
+Bill Walton,basketball,1977,NBA champion,title,1,22
+Bill Walton,basketball,1977,Finals MVP,big_stage,1,26
+Dave Cowens,basketball,1976,NBA champion,title,1,18
+John Havlicek,basketball,1976,NBA champion,title,1,18
+Rick Barry,basketball,1975,NBA champion,title,1,18
+Rick Barry,basketball,1975,Finals MVP,big_stage,1,26
+Dave Cowens,basketball,1974,NBA champion,title,1,17
+John Havlicek,basketball,1974,NBA champion,title,1,17
+Paul Westphal,basketball,1974,NBA champion,title,1,17
+John Havlicek,basketball,1974,Finals MVP,big_stage,1,26
+Walt Frazier,basketball,1973,NBA champion,title,1,17
+Jerry Lucas,basketball,1973,NBA champion,title,1,17
+Earl Monroe,basketball,1973,NBA champion,title,1,17
+Willis Reed,basketball,1973,NBA champion,title,1,17
+Willis Reed,basketball,1973,Finals MVP,big_stage,1,26
+Elgin Baylor,basketball,1972,NBA champion,title,1,17
+Wilt Chamberlain,basketball,1972,NBA champion,title,1,17
+Gail Goodrich,basketball,1972,NBA champion,title,1,17
+Jerry West,basketball,1972,NBA champion,title,1,17
+Wilt Chamberlain,basketball,1972,Finals MVP,big_stage,1,26
+Kareem Abdul-Jabbar,basketball,1971,NBA champion,title,1,17
+Oscar Robertson,basketball,1971,NBA champion,title,1,17
+Kareem Abdul-Jabbar,basketball,1971,Finals MVP,big_stage,1,26
+Walt Frazier,basketball,1970,NBA champion,title,1,14
+Willis Reed,basketball,1970,NBA champion,title,1,14
+Willis Reed,basketball,1970,Finals MVP,big_stage,1,26
+John Havlicek,basketball,1969,NBA champion,title,1,14
+Bill Russell,basketball,1969,NBA champion,title,1,14
+Jerry West,basketball,1969,Finals MVP,big_stage,1,26
+John Havlicek,basketball,1968,NBA champion,title,1,12
+Bill Russell,basketball,1968,NBA champion,title,1,12
+Wilt Chamberlain,basketball,1967,NBA champion,title,1,10
+Billy Cunningham,basketball,1967,NBA champion,title,1,10
+John Havlicek,basketball,1966,NBA champion,title,1,9
+Bill Russell,basketball,1966,NBA champion,title,1,9
+John Havlicek,basketball,1965,NBA champion,title,1,9
+Bill Russell,basketball,1965,NBA champion,title,1,9
+John Havlicek,basketball,1964,NBA champion,title,1,9
+Bill Russell,basketball,1964,NBA champion,title,1,9
+Bob Cousy,basketball,1963,NBA champion,title,1,9
+John Havlicek,basketball,1963,NBA champion,title,1,9
+Bill Russell,basketball,1963,NBA champion,title,1,9
+Bob Cousy,basketball,1962,NBA champion,title,1,9
+Bill Russell,basketball,1962,NBA champion,title,1,9
+Bob Cousy,basketball,1961,NBA champion,title,1,8
+Bill Russell,basketball,1961,NBA champion,title,1,8
+Bill Sharman,basketball,1961,NBA champion,title,1,8
+Bob Cousy,basketball,1960,NBA champion,title,1,8
+Bill Russell,basketball,1960,NBA champion,title,1,8
+Bill Sharman,basketball,1960,NBA champion,title,1,8
+Bob Cousy,basketball,1959,NBA champion,title,1,8
+Bill Russell,basketball,1959,NBA champion,title,1,8
+Bill Sharman,basketball,1959,NBA champion,title,1,8
+Ed Macauley,basketball,1958,NBA champion,title,1,8
+Bob Pettit,basketball,1958,NBA champion,title,1,8
+Bob Cousy,basketball,1957,NBA champion,title,1,8
+Bill Russell,basketball,1957,NBA champion,title,1,8
+Bill Sharman,basketball,1957,NBA champion,title,1,8
+Paul Arizin,basketball,1956,NBA champion,title,1,8
+Neil Johnston,basketball,1956,NBA champion,title,1,8
+Dolph Schayes,basketball,1955,NBA champion,title,1,9
+George Mikan,basketball,1954,NBA champion,title,1,9
+Jim Pollard,basketball,1954,NBA champion,title,1,9
+George Mikan,basketball,1953,NBA champion,title,1,10
+Jim Pollard,basketball,1953,NBA champion,title,1,10
+George Mikan,basketball,1952,NBA champion,title,1,10
+Jim Pollard,basketball,1952,NBA champion,title,1,10
+Bob Davies,basketball,1951,NBA champion,title,1,11
+George Mikan,basketball,1950,NBA champion,title,1,17
+Jim Pollard,basketball,1950,NBA champion,title,1,17
+George Mikan,basketball,1949,NBA champion,title,1,12
+Jim Pollard,basketball,1949,NBA champion,title,1,12
+Howie Dallmar,basketball,1947,NBA champion,title,1,11
+Joe Fulks,basketball,1947,NBA champion,title,1,11
+Shai Gilgeous-Alexander,basketball,2025,MVP,award,1,569
+Nikola Jokić,basketball,2024,MVP,award,1,572
+Joel Embiid,basketball,2023,MVP,award,1,539
+Nikola Jokić,basketball,2022,MVP,award,1,605
+Nikola Jokić,basketball,2021,MVP,award,1,540
+Giannis Antetokounmpo,basketball,2020,Defensive Player of the Year,award,1,529
+Giannis Antetokounmpo,basketball,2020,MVP,award,1,529
+Giannis Antetokounmpo,basketball,2019,MVP,award,1,530
+James Harden,basketball,2018,MVP,award,1,540
+Russell Westbrook,basketball,2017,MVP,award,1,486
+Kawhi Leonard,basketball,2016,Defensive Player of the Year,award,1,476
+Stephen Curry,basketball,2016,MVP,award,1,476
+Kawhi Leonard,basketball,2015,Defensive Player of the Year,award,1,492
+Stephen Curry,basketball,2015,MVP,award,1,492
+Joakim Noah,basketball,2014,Defensive Player of the Year,award,1,482
+Kevin Durant,basketball,2014,MVP,award,1,482
+Marc Gasol,basketball,2013,Defensive Player of the Year,award,1,469
+LeBron James,basketball,2013,MVP,award,1,469
+LeBron James,basketball,2012,MVP,award,1,478
+Dwight Howard,basketball,2011,Defensive Player of the Year,award,1,452
+Derrick Rose,basketball,2011,MVP,award,1,452
+Dwight Howard,basketball,2010,Defensive Player of the Year,award,1,442
+LeBron James,basketball,2010,MVP,award,1,442
+Dwight Howard,basketball,2009,Defensive Player of the Year,award,1,445
+LeBron James,basketball,2009,MVP,award,1,445
+Kevin Garnett,basketball,2008,Defensive Player of the Year,award,1,451
+Kobe Bryant,basketball,2008,MVP,award,1,451
+Dirk Nowitzki,basketball,2007,MVP,award,1,458
+Steve Nash,basketball,2006,MVP,award,1,458
+Steve Nash,basketball,2005,MVP,award,1,464
+Kevin Garnett,basketball,2004,MVP,award,1,442
+Tim Duncan,basketball,2003,MVP,award,1,428
+Tim Duncan,basketball,2002,MVP,award,1,440
+Allen Iverson,basketball,2001,MVP,award,1,441
+Alonzo Mourning,basketball,2000,Defensive Player of the Year,award,1,439
+Shaquille O'Neal,basketball,2000,MVP,award,1,439
+Alonzo Mourning,basketball,1999,Defensive Player of the Year,award,1,440
+Karl Malone,basketball,1999,MVP,award,1,440
+Michael Jordan,basketball,1998,MVP,award,1,439
+Karl Malone,basketball,1997,MVP,award,1,441
+Gary Payton,basketball,1996,Defensive Player of the Year,award,1,429
+Michael Jordan,basketball,1996,MVP,award,1,429
+David Robinson,basketball,1995,MVP,award,1,407
+Hakeem Olajuwon,basketball,1994,Defensive Player of the Year,award,1,403
+Hakeem Olajuwon,basketball,1994,MVP,award,1,403
+Hakeem Olajuwon,basketball,1993,Defensive Player of the Year,award,1,390
+Charles Barkley,basketball,1993,MVP,award,1,390
+David Robinson,basketball,1992,Defensive Player of the Year,award,1,386
+Michael Jordan,basketball,1992,MVP,award,1,386
+Michael Jordan,basketball,1991,MVP,award,1,387
+Magic Johnson,basketball,1990,MVP,award,1,381
+Magic Johnson,basketball,1989,MVP,award,1,353
+Michael Jordan,basketball,1988,Defensive Player of the Year,award,1,332
+Michael Jordan,basketball,1988,MVP,award,1,332
+Magic Johnson,basketball,1987,MVP,award,1,335
+Larry Bird,basketball,1986,MVP,award,1,325
+Larry Bird,basketball,1985,MVP,award,1,320
+Sidney Moncrief,basketball,1984,Defensive Player of the Year,award,1,310
+Larry Bird,basketball,1984,MVP,award,1,310
+Sidney Moncrief,basketball,1983,Defensive Player of the Year,award,1,316
+Moses Malone,basketball,1983,MVP,award,1,316
+Moses Malone,basketball,1982,MVP,award,1,316
+Julius Erving,basketball,1981,MVP,award,1,304
+Kareem Abdul-Jabbar,basketball,1980,MVP,award,1,287
+Moses Malone,basketball,1979,MVP,award,1,280
+Bill Walton,basketball,1978,MVP,award,1,285
+Kareem Abdul-Jabbar,basketball,1977,MVP,award,1,295
+Kareem Abdul-Jabbar,basketball,1976,MVP,award,1,238
+Bob McAdoo,basketball,1975,MVP,award,1,235
+Kareem Abdul-Jabbar,basketball,1974,MVP,award,1,222
+Dave Cowens,basketball,1973,MVP,award,1,215
+Kareem Abdul-Jabbar,basketball,1972,MVP,award,1,216
+Kareem Abdul-Jabbar,basketball,1971,MVP,award,1,217
+Willis Reed,basketball,1970,MVP,award,1,171
+Wes Unseld,basketball,1969,MVP,award,1,168
+Wilt Chamberlain,basketball,1968,MVP,award,1,151
+Wilt Chamberlain,basketball,1967,MVP,award,1,123
+Wilt Chamberlain,basketball,1966,MVP,award,1,111
+Bill Russell,basketball,1965,MVP,award,1,114
+Oscar Robertson,basketball,1964,MVP,award,1,111
+Bill Russell,basketball,1963,MVP,award,1,117
+Bill Russell,basketball,1962,MVP,award,1,113
+Bill Russell,basketball,1961,MVP,award,1,93
+Wilt Chamberlain,basketball,1960,MVP,award,1,99
+Bob Pettit,basketball,1959,MVP,award,1,92
+Bill Russell,basketball,1958,MVP,award,1,99
+Bob Cousy,basketball,1957,MVP,award,1,99
+Bob Pettit,basketball,1956,MVP,award,1,92
+Nikola Jokić,basketball,2025,All-NBA 1st team,award,5,569
+Giannis Antetokounmpo,basketball,2025,All-NBA 1st team,award,5,569
+Jayson Tatum,basketball,2025,All-NBA 1st team,award,5,569
+Shai Gilgeous-Alexander,basketball,2025,All-NBA 1st team,award,5,569
+Donovan Mitchell,basketball,2025,All-NBA 1st team,award,5,569
+LeBron James,basketball,2025,All-NBA 2nd team,award,10,569
+Stephen Curry,basketball,2025,All-NBA 2nd team,award,10,569
+James Harden,basketball,2025,All-NBA 3rd team,award,15,569
+Anthony Davis,basketball,2024,All-Defense 1st team,award,5,572
+Nikola Jokić,basketball,2024,All-NBA 1st team,award,5,572
+Giannis Antetokounmpo,basketball,2024,All-NBA 1st team,award,5,572
+Jayson Tatum,basketball,2024,All-NBA 1st team,award,5,572
+Luka Dončić,basketball,2024,All-NBA 1st team,award,5,572
+Shai Gilgeous-Alexander,basketball,2024,All-NBA 1st team,award,5,572
+Anthony Davis,basketball,2024,All-NBA 2nd team,award,10,572
+Kevin Durant,basketball,2024,All-NBA 2nd team,award,10,572
+Kawhi Leonard,basketball,2024,All-NBA 2nd team,award,10,572
+LeBron James,basketball,2024,All-NBA 3rd team,award,15,572
+Devin Booker,basketball,2024,All-NBA 3rd team,award,15,572
+Stephen Curry,basketball,2024,All-NBA 3rd team,award,15,572
+Joel Embiid,basketball,2023,All-NBA 1st team,award,5,539
+Giannis Antetokounmpo,basketball,2023,All-NBA 1st team,award,5,539
+Jayson Tatum,basketball,2023,All-NBA 1st team,award,5,539
+Luka Dončić,basketball,2023,All-NBA 1st team,award,5,539
+Shai Gilgeous-Alexander,basketball,2023,All-NBA 1st team,award,5,539
+Nikola Jokić,basketball,2023,All-NBA 2nd team,award,10,539
+Donovan Mitchell,basketball,2023,All-NBA 2nd team,award,10,539
+Stephen Curry,basketball,2023,All-NBA 2nd team,award,10,539
+LeBron James,basketball,2023,All-NBA 3rd team,award,15,539
+Damian Lillard,basketball,2023,All-NBA 3rd team,award,15,539
+Giannis Antetokounmpo,basketball,2022,All-Defense 1st team,award,5,605
+Nikola Jokić,basketball,2022,All-NBA 1st team,award,5,605
+Giannis Antetokounmpo,basketball,2022,All-NBA 1st team,award,5,605
+Jayson Tatum,basketball,2022,All-NBA 1st team,award,5,605
+Luka Dončić,basketball,2022,All-NBA 1st team,award,5,605
+Devin Booker,basketball,2022,All-NBA 1st team,award,5,605
+Joel Embiid,basketball,2022,All-NBA 2nd team,award,10,605
+Kevin Durant,basketball,2022,All-NBA 2nd team,award,10,605
+Stephen Curry,basketball,2022,All-NBA 2nd team,award,10,605
+LeBron James,basketball,2022,All-NBA 3rd team,award,15,605
+Chris Paul,basketball,2022,All-NBA 3rd team,award,15,605
+Giannis Antetokounmpo,basketball,2021,All-Defense 1st team,award,5,540
+Joel Embiid,basketball,2021,All-Defense 2nd team,award,10,540
+Kawhi Leonard,basketball,2021,All-Defense 2nd team,award,10,540
+Nikola Jokić,basketball,2021,All-NBA 1st team,award,5,540
+Giannis Antetokounmpo,basketball,2021,All-NBA 1st team,award,5,540
+Kawhi Leonard,basketball,2021,All-NBA 1st team,award,5,540
+Stephen Curry,basketball,2021,All-NBA 1st team,award,5,540
+Luka Dončić,basketball,2021,All-NBA 1st team,award,5,540
+Joel Embiid,basketball,2021,All-NBA 2nd team,award,10,540
+LeBron James,basketball,2021,All-NBA 2nd team,award,10,540
+Chris Paul,basketball,2021,All-NBA 2nd team,award,10,540
+Damian Lillard,basketball,2021,All-NBA 2nd team,award,10,540
+Paul George,basketball,2021,All-NBA 3rd team,award,15,540
+Giannis Antetokounmpo,basketball,2020,All-Defense 1st team,award,5,529
+Anthony Davis,basketball,2020,All-Defense 1st team,award,5,529
+Kawhi Leonard,basketball,2020,All-Defense 2nd team,award,10,529
+Anthony Davis,basketball,2020,All-NBA 1st team,award,5,529
+Giannis Antetokounmpo,basketball,2020,All-NBA 1st team,award,5,529
+LeBron James,basketball,2020,All-NBA 1st team,award,5,529
+James Harden,basketball,2020,All-NBA 1st team,award,5,529
+Luka Dončić,basketball,2020,All-NBA 1st team,award,5,529
+Nikola Jokić,basketball,2020,All-NBA 2nd team,award,10,529
+Kawhi Leonard,basketball,2020,All-NBA 2nd team,award,10,529
+Damian Lillard,basketball,2020,All-NBA 2nd team,award,10,529
+Chris Paul,basketball,2020,All-NBA 2nd team,award,10,529
+Jayson Tatum,basketball,2020,All-NBA 3rd team,award,15,529
+Russell Westbrook,basketball,2020,All-NBA 3rd team,award,15,529
+Paul George,basketball,2019,All-Defense 1st team,award,5,530
+Giannis Antetokounmpo,basketball,2019,All-Defense 1st team,award,5,530
+Joel Embiid,basketball,2019,All-Defense 2nd team,award,10,530
+Kawhi Leonard,basketball,2019,All-Defense 2nd team,award,10,530
+Nikola Jokić,basketball,2019,All-NBA 1st team,award,5,530
+Giannis Antetokounmpo,basketball,2019,All-NBA 1st team,award,5,530
+Paul George,basketball,2019,All-NBA 1st team,award,5,530
+James Harden,basketball,2019,All-NBA 1st team,award,5,530
+Stephen Curry,basketball,2019,All-NBA 1st team,award,5,530
+Joel Embiid,basketball,2019,All-NBA 2nd team,award,10,530
+Kevin Durant,basketball,2019,All-NBA 2nd team,award,10,530
+Kawhi Leonard,basketball,2019,All-NBA 2nd team,award,10,530
+Damian Lillard,basketball,2019,All-NBA 2nd team,award,10,530
+LeBron James,basketball,2019,All-NBA 3rd team,award,15,530
+Russell Westbrook,basketball,2019,All-NBA 3rd team,award,15,530
+Anthony Davis,basketball,2018,All-Defense 1st team,award,5,540
+Joel Embiid,basketball,2018,All-Defense 2nd team,award,10,540
+Anthony Davis,basketball,2018,All-NBA 1st team,award,5,540
+LeBron James,basketball,2018,All-NBA 1st team,award,5,540
+Kevin Durant,basketball,2018,All-NBA 1st team,award,5,540
+Damian Lillard,basketball,2018,All-NBA 1st team,award,5,540
+James Harden,basketball,2018,All-NBA 1st team,award,5,540
+Joel Embiid,basketball,2018,All-NBA 2nd team,award,10,540
+Giannis Antetokounmpo,basketball,2018,All-NBA 2nd team,award,10,540
+Russell Westbrook,basketball,2018,All-NBA 2nd team,award,10,540
+Paul George,basketball,2018,All-NBA 3rd team,award,15,540
+Stephen Curry,basketball,2018,All-NBA 3rd team,award,15,540
+Kawhi Leonard,basketball,2017,All-Defense 1st team,award,5,486
+Chris Paul,basketball,2017,All-Defense 1st team,award,5,486
+Anthony Davis,basketball,2017,All-Defense 2nd team,award,10,486
+Giannis Antetokounmpo,basketball,2017,All-Defense 2nd team,award,10,486
+Anthony Davis,basketball,2017,All-NBA 1st team,award,5,486
+LeBron James,basketball,2017,All-NBA 1st team,award,5,486
+Kawhi Leonard,basketball,2017,All-NBA 1st team,award,5,486
+James Harden,basketball,2017,All-NBA 1st team,award,5,486
+Russell Westbrook,basketball,2017,All-NBA 1st team,award,5,486
+Giannis Antetokounmpo,basketball,2017,All-NBA 2nd team,award,10,486
+Kevin Durant,basketball,2017,All-NBA 2nd team,award,10,486
+Stephen Curry,basketball,2017,All-NBA 2nd team,award,10,486
+DeAndre Jordan,basketball,2017,All-NBA 3rd team,award,15,486
+Kawhi Leonard,basketball,2016,All-Defense 1st team,award,5,476
+DeAndre Jordan,basketball,2016,All-Defense 1st team,award,5,476
+Chris Paul,basketball,2016,All-Defense 1st team,award,5,476
+Paul George,basketball,2016,All-Defense 2nd team,award,10,476
+DeAndre Jordan,basketball,2016,All-NBA 1st team,award,5,476
+LeBron James,basketball,2016,All-NBA 1st team,award,5,476
+Kawhi Leonard,basketball,2016,All-NBA 1st team,award,5,476
+Stephen Curry,basketball,2016,All-NBA 1st team,award,5,476
+Russell Westbrook,basketball,2016,All-NBA 1st team,award,5,476
+Kevin Durant,basketball,2016,All-NBA 2nd team,award,10,476
+Chris Paul,basketball,2016,All-NBA 2nd team,award,10,476
+Damian Lillard,basketball,2016,All-NBA 2nd team,award,10,476
+Paul George,basketball,2016,All-NBA 3rd team,award,15,476
+Kawhi Leonard,basketball,2015,All-Defense 1st team,award,5,492
+DeAndre Jordan,basketball,2015,All-Defense 1st team,award,5,492
+Chris Paul,basketball,2015,All-Defense 1st team,award,5,492
+Anthony Davis,basketball,2015,All-Defense 2nd team,award,10,492
+Tim Duncan,basketball,2015,All-Defense 2nd team,award,10,492
+Marc Gasol,basketball,2015,All-NBA 1st team,award,5,492
+LeBron James,basketball,2015,All-NBA 1st team,award,5,492
+Anthony Davis,basketball,2015,All-NBA 1st team,award,5,492
+Stephen Curry,basketball,2015,All-NBA 1st team,award,5,492
+James Harden,basketball,2015,All-NBA 1st team,award,5,492
+Russell Westbrook,basketball,2015,All-NBA 2nd team,award,10,492
+Chris Paul,basketball,2015,All-NBA 2nd team,award,10,492
+DeAndre Jordan,basketball,2015,All-NBA 3rd team,award,15,492
+Tim Duncan,basketball,2015,All-NBA 3rd team,award,15,492
+Joakim Noah,basketball,2014,All-Defense 1st team,award,5,482
+Paul George,basketball,2014,All-Defense 1st team,award,5,482
+Chris Paul,basketball,2014,All-Defense 1st team,award,5,482
+LeBron James,basketball,2014,All-Defense 2nd team,award,10,482
+Kawhi Leonard,basketball,2014,All-Defense 2nd team,award,10,482
+Joakim Noah,basketball,2014,All-NBA 1st team,award,5,482
+Kevin Durant,basketball,2014,All-NBA 1st team,award,5,482
+LeBron James,basketball,2014,All-NBA 1st team,award,5,482
+James Harden,basketball,2014,All-NBA 1st team,award,5,482
+Chris Paul,basketball,2014,All-NBA 1st team,award,5,482
+Dwight Howard,basketball,2014,All-NBA 2nd team,award,10,482
+Stephen Curry,basketball,2014,All-NBA 2nd team,award,10,482
+Paul George,basketball,2014,All-NBA 3rd team,award,15,482
+Damian Lillard,basketball,2014,All-NBA 3rd team,award,15,482
+LeBron James,basketball,2013,All-Defense 1st team,award,5,469
+Chris Paul,basketball,2013,All-Defense 1st team,award,5,469
+Joakim Noah,basketball,2013,All-Defense 1st team,award,5,469
+Tim Duncan,basketball,2013,All-Defense 2nd team,award,10,469
+Marc Gasol,basketball,2013,All-Defense 2nd team,award,10,469
+Paul George,basketball,2013,All-Defense 2nd team,award,10,469
+Tim Duncan,basketball,2013,All-NBA 1st team,award,5,469
+Kevin Durant,basketball,2013,All-NBA 1st team,award,5,469
+LeBron James,basketball,2013,All-NBA 1st team,award,5,469
+Kobe Bryant,basketball,2013,All-NBA 1st team,award,5,469
+Chris Paul,basketball,2013,All-NBA 1st team,award,5,469
+Marc Gasol,basketball,2013,All-NBA 2nd team,award,10,469
+Russell Westbrook,basketball,2013,All-NBA 2nd team,award,10,469
+Dwight Howard,basketball,2013,All-NBA 3rd team,award,15,469
+Paul George,basketball,2013,All-NBA 3rd team,award,15,469
+James Harden,basketball,2013,All-NBA 3rd team,award,15,469
+Dwyane Wade,basketball,2013,All-NBA 3rd team,award,15,469
+Dwight Howard,basketball,2012,All-Defense 1st team,award,5,478
+LeBron James,basketball,2012,All-Defense 1st team,award,5,478
+Chris Paul,basketball,2012,All-Defense 1st team,award,5,478
+Kobe Bryant,basketball,2012,All-Defense 2nd team,award,10,478
+Kevin Garnett,basketball,2012,All-Defense 2nd team,award,10,478
+Dwight Howard,basketball,2012,All-NBA 1st team,award,5,478
+Kevin Durant,basketball,2012,All-NBA 1st team,award,5,478
+LeBron James,basketball,2012,All-NBA 1st team,award,5,478
+Kobe Bryant,basketball,2012,All-NBA 1st team,award,5,478
+Chris Paul,basketball,2012,All-NBA 1st team,award,5,478
+Russell Westbrook,basketball,2012,All-NBA 2nd team,award,10,478
+Dirk Nowitzki,basketball,2012,All-NBA 3rd team,award,15,478
+Dwyane Wade,basketball,2012,All-NBA 3rd team,award,15,478
+Kobe Bryant,basketball,2011,All-Defense 1st team,award,5,452
+Kevin Garnett,basketball,2011,All-Defense 1st team,award,5,452
+Dwight Howard,basketball,2011,All-Defense 1st team,award,5,452
+LeBron James,basketball,2011,All-Defense 1st team,award,5,452
+Joakim Noah,basketball,2011,All-Defense 2nd team,award,10,452
+Chris Paul,basketball,2011,All-Defense 2nd team,award,10,452
+Dwight Howard,basketball,2011,All-NBA 1st team,award,5,452
+Kevin Durant,basketball,2011,All-NBA 1st team,award,5,452
+LeBron James,basketball,2011,All-NBA 1st team,award,5,452
+Kobe Bryant,basketball,2011,All-NBA 1st team,award,5,452
+Derrick Rose,basketball,2011,All-NBA 1st team,award,5,452
+Amar'e Stoudemire,basketball,2011,All-NBA 2nd team,award,10,452
+Dirk Nowitzki,basketball,2011,All-NBA 2nd team,award,10,452
+Dwyane Wade,basketball,2011,All-NBA 2nd team,award,10,452
+Russell Westbrook,basketball,2011,All-NBA 2nd team,award,10,452
+Chris Paul,basketball,2011,All-NBA 3rd team,award,15,452
+Kobe Bryant,basketball,2010,All-Defense 1st team,award,5,442
+Dwight Howard,basketball,2010,All-Defense 1st team,award,5,442
+LeBron James,basketball,2010,All-Defense 1st team,award,5,442
+Tim Duncan,basketball,2010,All-Defense 2nd team,award,10,442
+Dwyane Wade,basketball,2010,All-Defense 2nd team,award,10,442
+Dwight Howard,basketball,2010,All-NBA 1st team,award,5,442
+Kevin Durant,basketball,2010,All-NBA 1st team,award,5,442
+LeBron James,basketball,2010,All-NBA 1st team,award,5,442
+Kobe Bryant,basketball,2010,All-NBA 1st team,award,5,442
+Dwyane Wade,basketball,2010,All-NBA 1st team,award,5,442
+Amar'e Stoudemire,basketball,2010,All-NBA 2nd team,award,10,442
+Dirk Nowitzki,basketball,2010,All-NBA 2nd team,award,10,442
+Steve Nash,basketball,2010,All-NBA 2nd team,award,10,442
+Tim Duncan,basketball,2010,All-NBA 3rd team,award,15,442
+Kobe Bryant,basketball,2009,All-Defense 1st team,award,5,445
+Kevin Garnett,basketball,2009,All-Defense 1st team,award,5,445
+Dwight Howard,basketball,2009,All-Defense 1st team,award,5,445
+LeBron James,basketball,2009,All-Defense 1st team,award,5,445
+Chris Paul,basketball,2009,All-Defense 1st team,award,5,445
+Tim Duncan,basketball,2009,All-Defense 2nd team,award,10,445
+Dwyane Wade,basketball,2009,All-Defense 2nd team,award,10,445
+Dwight Howard,basketball,2009,All-NBA 1st team,award,5,445
+LeBron James,basketball,2009,All-NBA 1st team,award,5,445
+Dirk Nowitzki,basketball,2009,All-NBA 1st team,award,5,445
+Kobe Bryant,basketball,2009,All-NBA 1st team,award,5,445
+Dwyane Wade,basketball,2009,All-NBA 1st team,award,5,445
+Tim Duncan,basketball,2009,All-NBA 2nd team,award,10,445
+Chris Paul,basketball,2009,All-NBA 2nd team,award,10,445
+Shaquille O'Neal,basketball,2009,All-NBA 3rd team,award,15,445
+Kobe Bryant,basketball,2008,All-Defense 1st team,award,5,451
+Tim Duncan,basketball,2008,All-Defense 1st team,award,5,451
+Kevin Garnett,basketball,2008,All-Defense 1st team,award,5,451
+Dwight Howard,basketball,2008,All-Defense 2nd team,award,10,451
+Chris Paul,basketball,2008,All-Defense 2nd team,award,10,451
+Dwight Howard,basketball,2008,All-NBA 1st team,award,5,451
+Kevin Garnett,basketball,2008,All-NBA 1st team,award,5,451
+LeBron James,basketball,2008,All-NBA 1st team,award,5,451
+Kobe Bryant,basketball,2008,All-NBA 1st team,award,5,451
+Chris Paul,basketball,2008,All-NBA 1st team,award,5,451
+Amar'e Stoudemire,basketball,2008,All-NBA 2nd team,award,10,451
+Tim Duncan,basketball,2008,All-NBA 2nd team,award,10,451
+Dirk Nowitzki,basketball,2008,All-NBA 2nd team,award,10,451
+Steve Nash,basketball,2008,All-NBA 2nd team,award,10,451
+Tracy McGrady,basketball,2008,All-NBA 3rd team,award,15,451
+Kobe Bryant,basketball,2007,All-Defense 1st team,award,5,458
+Tim Duncan,basketball,2007,All-Defense 1st team,award,5,458
+Kevin Garnett,basketball,2007,All-Defense 2nd team,award,10,458
+Jason Kidd,basketball,2007,All-Defense 2nd team,award,10,458
+Amar'e Stoudemire,basketball,2007,All-NBA 1st team,award,5,458
+Tim Duncan,basketball,2007,All-NBA 1st team,award,5,458
+Dirk Nowitzki,basketball,2007,All-NBA 1st team,award,5,458
+Kobe Bryant,basketball,2007,All-NBA 1st team,award,5,458
+Steve Nash,basketball,2007,All-NBA 1st team,award,5,458
+LeBron James,basketball,2007,All-NBA 2nd team,award,10,458
+Tracy McGrady,basketball,2007,All-NBA 2nd team,award,10,458
+Dwight Howard,basketball,2007,All-NBA 3rd team,award,15,458
+Kevin Garnett,basketball,2007,All-NBA 3rd team,award,15,458
+Dwyane Wade,basketball,2007,All-NBA 3rd team,award,15,458
+Kobe Bryant,basketball,2006,All-Defense 1st team,award,5,458
+Jason Kidd,basketball,2006,All-Defense 1st team,award,5,458
+Tim Duncan,basketball,2006,All-Defense 2nd team,award,10,458
+Kevin Garnett,basketball,2006,All-Defense 2nd team,award,10,458
+Shaquille O'Neal,basketball,2006,All-NBA 1st team,award,5,458
+LeBron James,basketball,2006,All-NBA 1st team,award,5,458
+Dirk Nowitzki,basketball,2006,All-NBA 1st team,award,5,458
+Kobe Bryant,basketball,2006,All-NBA 1st team,award,5,458
+Steve Nash,basketball,2006,All-NBA 1st team,award,5,458
+Tim Duncan,basketball,2006,All-NBA 2nd team,award,10,458
+Dwyane Wade,basketball,2006,All-NBA 2nd team,award,10,458
+Allen Iverson,basketball,2006,All-NBA 3rd team,award,15,458
+Tim Duncan,basketball,2005,All-Defense 1st team,award,5,464
+Kevin Garnett,basketball,2005,All-Defense 1st team,award,5,464
+Jason Kidd,basketball,2005,All-Defense 2nd team,award,10,464
+Dwyane Wade,basketball,2005,All-Defense 2nd team,award,10,464
+Shaquille O'Neal,basketball,2005,All-NBA 1st team,award,5,464
+Tim Duncan,basketball,2005,All-NBA 1st team,award,5,464
+Dirk Nowitzki,basketball,2005,All-NBA 1st team,award,5,464
+Allen Iverson,basketball,2005,All-NBA 1st team,award,5,464
+Steve Nash,basketball,2005,All-NBA 1st team,award,5,464
+Amar'e Stoudemire,basketball,2005,All-NBA 2nd team,award,10,464
+Kevin Garnett,basketball,2005,All-NBA 2nd team,award,10,464
+LeBron James,basketball,2005,All-NBA 2nd team,award,10,464
+Dwyane Wade,basketball,2005,All-NBA 2nd team,award,10,464
+Tracy McGrady,basketball,2005,All-NBA 3rd team,award,15,464
+Kobe Bryant,basketball,2005,All-NBA 3rd team,award,15,464
+Kobe Bryant,basketball,2004,All-Defense 1st team,award,5,442
+Kevin Garnett,basketball,2004,All-Defense 1st team,award,5,442
+Tim Duncan,basketball,2004,All-Defense 2nd team,award,10,442
+Jason Kidd,basketball,2004,All-Defense 2nd team,award,10,442
+Shaquille O'Neal,basketball,2004,All-NBA 1st team,award,5,442
+Tim Duncan,basketball,2004,All-NBA 1st team,award,5,442
+Kevin Garnett,basketball,2004,All-NBA 1st team,award,5,442
+Kobe Bryant,basketball,2004,All-NBA 1st team,award,5,442
+Jason Kidd,basketball,2004,All-NBA 1st team,award,5,442
+Tracy McGrady,basketball,2004,All-NBA 2nd team,award,10,442
+Dirk Nowitzki,basketball,2004,All-NBA 3rd team,award,15,442
+Kobe Bryant,basketball,2003,All-Defense 1st team,award,5,428
+Tim Duncan,basketball,2003,All-Defense 1st team,award,5,428
+Kevin Garnett,basketball,2003,All-Defense 1st team,award,5,428
+Jason Kidd,basketball,2003,All-Defense 2nd team,award,10,428
+Shaquille O'Neal,basketball,2003,All-Defense 2nd team,award,10,428
+Shaquille O'Neal,basketball,2003,All-NBA 1st team,award,5,428
+Tim Duncan,basketball,2003,All-NBA 1st team,award,5,428
+Kevin Garnett,basketball,2003,All-NBA 1st team,award,5,428
+Kobe Bryant,basketball,2003,All-NBA 1st team,award,5,428
+Tracy McGrady,basketball,2003,All-NBA 1st team,award,5,428
+Dirk Nowitzki,basketball,2003,All-NBA 2nd team,award,10,428
+Chris Webber,basketball,2003,All-NBA 2nd team,award,10,428
+Allen Iverson,basketball,2003,All-NBA 2nd team,award,10,428
+Jason Kidd,basketball,2003,All-NBA 2nd team,award,10,428
+Steve Nash,basketball,2003,All-NBA 3rd team,award,15,428
+Tim Duncan,basketball,2002,All-Defense 1st team,award,5,440
+Kevin Garnett,basketball,2002,All-Defense 1st team,award,5,440
+Jason Kidd,basketball,2002,All-Defense 1st team,award,5,440
+Gary Payton,basketball,2002,All-Defense 1st team,award,5,440
+Kobe Bryant,basketball,2002,All-Defense 2nd team,award,10,440
+Shaquille O'Neal,basketball,2002,All-NBA 1st team,award,5,440
+Tim Duncan,basketball,2002,All-NBA 1st team,award,5,440
+Tracy McGrady,basketball,2002,All-NBA 1st team,award,5,440
+Kobe Bryant,basketball,2002,All-NBA 1st team,award,5,440
+Jason Kidd,basketball,2002,All-NBA 1st team,award,5,440
+Dirk Nowitzki,basketball,2002,All-NBA 2nd team,award,10,440
+Kevin Garnett,basketball,2002,All-NBA 2nd team,award,10,440
+Chris Webber,basketball,2002,All-NBA 2nd team,award,10,440
+Allen Iverson,basketball,2002,All-NBA 2nd team,award,10,440
+Gary Payton,basketball,2002,All-NBA 2nd team,award,10,440
+Steve Nash,basketball,2002,All-NBA 3rd team,award,15,440
+Tim Duncan,basketball,2001,All-Defense 1st team,award,5,441
+Kevin Garnett,basketball,2001,All-Defense 1st team,award,5,441
+Jason Kidd,basketball,2001,All-Defense 1st team,award,5,441
+Gary Payton,basketball,2001,All-Defense 1st team,award,5,441
+Kobe Bryant,basketball,2001,All-Defense 2nd team,award,10,441
+Shaquille O'Neal,basketball,2001,All-Defense 2nd team,award,10,441
+Shaquille O'Neal,basketball,2001,All-NBA 1st team,award,5,441
+Tim Duncan,basketball,2001,All-NBA 1st team,award,5,441
+Chris Webber,basketball,2001,All-NBA 1st team,award,5,441
+Allen Iverson,basketball,2001,All-NBA 1st team,award,5,441
+Jason Kidd,basketball,2001,All-NBA 1st team,award,5,441
+Kevin Garnett,basketball,2001,All-NBA 2nd team,award,10,441
+Kobe Bryant,basketball,2001,All-NBA 2nd team,award,10,441
+Tracy McGrady,basketball,2001,All-NBA 2nd team,award,10,441
+David Robinson,basketball,2001,All-NBA 3rd team,award,15,441
+Karl Malone,basketball,2001,All-NBA 3rd team,award,15,441
+Dirk Nowitzki,basketball,2001,All-NBA 3rd team,award,15,441
+Gary Payton,basketball,2001,All-NBA 3rd team,award,15,441
+Kobe Bryant,basketball,2000,All-Defense 1st team,award,5,439
+Tim Duncan,basketball,2000,All-Defense 1st team,award,5,439
+Kevin Garnett,basketball,2000,All-Defense 1st team,award,5,439
+Alonzo Mourning,basketball,2000,All-Defense 1st team,award,5,439
+Gary Payton,basketball,2000,All-Defense 1st team,award,5,439
+Jason Kidd,basketball,2000,All-Defense 2nd team,award,10,439
+Shaquille O'Neal,basketball,2000,All-Defense 2nd team,award,10,439
+Scottie Pippen,basketball,2000,All-Defense 2nd team,award,10,439
+Shaquille O'Neal,basketball,2000,All-NBA 1st team,award,5,439
+Tim Duncan,basketball,2000,All-NBA 1st team,award,5,439
+Kevin Garnett,basketball,2000,All-NBA 1st team,award,5,439
+Jason Kidd,basketball,2000,All-NBA 1st team,award,5,439
+Gary Payton,basketball,2000,All-NBA 1st team,award,5,439
+Alonzo Mourning,basketball,2000,All-NBA 2nd team,award,10,439
+Grant Hill,basketball,2000,All-NBA 2nd team,award,10,439
+Karl Malone,basketball,2000,All-NBA 2nd team,award,10,439
+Kobe Bryant,basketball,2000,All-NBA 2nd team,award,10,439
+Allen Iverson,basketball,2000,All-NBA 2nd team,award,10,439
+David Robinson,basketball,2000,All-NBA 3rd team,award,15,439
+Chris Webber,basketball,2000,All-NBA 3rd team,award,15,439
+Tim Duncan,basketball,1999,All-Defense 1st team,award,5,440
+Jason Kidd,basketball,1999,All-Defense 1st team,award,5,440
+Alonzo Mourning,basketball,1999,All-Defense 1st team,award,5,440
+Gary Payton,basketball,1999,All-Defense 1st team,award,5,440
+Karl Malone,basketball,1999,All-Defense 1st team,award,5,440
+Scottie Pippen,basketball,1999,All-Defense 1st team,award,5,440
+Alonzo Mourning,basketball,1999,All-NBA 1st team,award,5,440
+Tim Duncan,basketball,1999,All-NBA 1st team,award,5,440
+Karl Malone,basketball,1999,All-NBA 1st team,award,5,440
+Allen Iverson,basketball,1999,All-NBA 1st team,award,5,440
+Jason Kidd,basketball,1999,All-NBA 1st team,award,5,440
+Shaquille O'Neal,basketball,1999,All-NBA 2nd team,award,10,440
+Grant Hill,basketball,1999,All-NBA 2nd team,award,10,440
+Chris Webber,basketball,1999,All-NBA 2nd team,award,10,440
+Tim Hardaway,basketball,1999,All-NBA 2nd team,award,10,440
+Gary Payton,basketball,1999,All-NBA 2nd team,award,10,440
+Hakeem Olajuwon,basketball,1999,All-NBA 3rd team,award,15,440
+Kevin Garnett,basketball,1999,All-NBA 3rd team,award,15,440
+Kobe Bryant,basketball,1999,All-NBA 3rd team,award,15,440
+John Stockton,basketball,1999,All-NBA 3rd team,award,15,440
+Michael Jordan,basketball,1998,All-Defense 1st team,award,5,439
+Karl Malone,basketball,1998,All-Defense 1st team,award,5,439
+Gary Payton,basketball,1998,All-Defense 1st team,award,5,439
+Scottie Pippen,basketball,1998,All-Defense 1st team,award,5,439
+Tim Duncan,basketball,1998,All-Defense 2nd team,award,10,439
+David Robinson,basketball,1998,All-Defense 2nd team,award,10,439
+Shaquille O'Neal,basketball,1998,All-NBA 1st team,award,5,439
+Tim Duncan,basketball,1998,All-NBA 1st team,award,5,439
+Karl Malone,basketball,1998,All-NBA 1st team,award,5,439
+Michael Jordan,basketball,1998,All-NBA 1st team,award,5,439
+Gary Payton,basketball,1998,All-NBA 1st team,award,5,439
+David Robinson,basketball,1998,All-NBA 2nd team,award,10,439
+Grant Hill,basketball,1998,All-NBA 2nd team,award,10,439
+Tim Hardaway,basketball,1998,All-NBA 2nd team,award,10,439
+Scottie Pippen,basketball,1998,All-NBA 3rd team,award,15,439
+Michael Jordan,basketball,1997,All-Defense 1st team,award,5,441
+Karl Malone,basketball,1997,All-Defense 1st team,award,5,441
+Gary Payton,basketball,1997,All-Defense 1st team,award,5,441
+Scottie Pippen,basketball,1997,All-Defense 1st team,award,5,441
+Hakeem Olajuwon,basketball,1997,All-Defense 2nd team,award,10,441
+John Stockton,basketball,1997,All-Defense 2nd team,award,10,441
+Hakeem Olajuwon,basketball,1997,All-NBA 1st team,award,5,441
+Grant Hill,basketball,1997,All-NBA 1st team,award,5,441
+Karl Malone,basketball,1997,All-NBA 1st team,award,5,441
+Tim Hardaway,basketball,1997,All-NBA 1st team,award,5,441
+Michael Jordan,basketball,1997,All-NBA 1st team,award,5,441
+Patrick Ewing,basketball,1997,All-NBA 2nd team,award,10,441
+Scottie Pippen,basketball,1997,All-NBA 2nd team,award,10,441
+Gary Payton,basketball,1997,All-NBA 2nd team,award,10,441
+Shaquille O'Neal,basketball,1997,All-NBA 3rd team,award,15,441
+Anfernee Hardaway,basketball,1997,All-NBA 3rd team,award,15,441
+John Stockton,basketball,1997,All-NBA 3rd team,award,15,441
+Michael Jordan,basketball,1996,All-Defense 1st team,award,5,429
+Gary Payton,basketball,1996,All-Defense 1st team,award,5,429
+Scottie Pippen,basketball,1996,All-Defense 1st team,award,5,429
+David Robinson,basketball,1996,All-Defense 1st team,award,5,429
+Hakeem Olajuwon,basketball,1996,All-Defense 2nd team,award,10,429
+David Robinson,basketball,1996,All-NBA 1st team,award,5,429
+Karl Malone,basketball,1996,All-NBA 1st team,award,5,429
+Scottie Pippen,basketball,1996,All-NBA 1st team,award,5,429
+Anfernee Hardaway,basketball,1996,All-NBA 1st team,award,5,429
+Michael Jordan,basketball,1996,All-NBA 1st team,award,5,429
+Hakeem Olajuwon,basketball,1996,All-NBA 2nd team,award,10,429
+Grant Hill,basketball,1996,All-NBA 2nd team,award,10,429
+Gary Payton,basketball,1996,All-NBA 2nd team,award,10,429
+John Stockton,basketball,1996,All-NBA 2nd team,award,10,429
+Shaquille O'Neal,basketball,1996,All-NBA 3rd team,award,15,429
+Charles Barkley,basketball,1996,All-NBA 3rd team,award,15,429
+Gary Payton,basketball,1995,All-Defense 1st team,award,5,407
+Scottie Pippen,basketball,1995,All-Defense 1st team,award,5,407
+David Robinson,basketball,1995,All-Defense 1st team,award,5,407
+John Stockton,basketball,1995,All-Defense 2nd team,award,10,407
+David Robinson,basketball,1995,All-NBA 1st team,award,5,407
+Karl Malone,basketball,1995,All-NBA 1st team,award,5,407
+Scottie Pippen,basketball,1995,All-NBA 1st team,award,5,407
+Anfernee Hardaway,basketball,1995,All-NBA 1st team,award,5,407
+John Stockton,basketball,1995,All-NBA 1st team,award,5,407
+Shaquille O'Neal,basketball,1995,All-NBA 2nd team,award,10,407
+Charles Barkley,basketball,1995,All-NBA 2nd team,award,10,407
+Gary Payton,basketball,1995,All-NBA 2nd team,award,10,407
+Hakeem Olajuwon,basketball,1995,All-NBA 3rd team,award,15,407
+Clyde Drexler,basketball,1995,All-NBA 3rd team,award,15,407
+Hakeem Olajuwon,basketball,1994,All-Defense 1st team,award,5,403
+Gary Payton,basketball,1994,All-Defense 1st team,award,5,403
+Scottie Pippen,basketball,1994,All-Defense 1st team,award,5,403
+David Robinson,basketball,1994,All-Defense 2nd team,award,10,403
+Latrell Sprewell,basketball,1994,All-Defense 2nd team,award,10,403
+Hakeem Olajuwon,basketball,1994,All-NBA 1st team,award,5,403
+Karl Malone,basketball,1994,All-NBA 1st team,award,5,403
+Scottie Pippen,basketball,1994,All-NBA 1st team,award,5,403
+Latrell Sprewell,basketball,1994,All-NBA 1st team,award,5,403
+John Stockton,basketball,1994,All-NBA 1st team,award,5,403
+David Robinson,basketball,1994,All-NBA 2nd team,award,10,403
+Charles Barkley,basketball,1994,All-NBA 2nd team,award,10,403
+Shaquille O'Neal,basketball,1994,All-NBA 3rd team,award,15,403
+Dominique Wilkins,basketball,1994,All-NBA 3rd team,award,15,403
+Gary Payton,basketball,1994,All-NBA 3rd team,award,15,403
+Mark Price,basketball,1994,All-NBA 3rd team,award,15,403
+Michael Jordan,basketball,1993,All-Defense 1st team,award,5,390
+Hakeem Olajuwon,basketball,1993,All-Defense 1st team,award,5,390
+Scottie Pippen,basketball,1993,All-Defense 1st team,award,5,390
+David Robinson,basketball,1993,All-Defense 2nd team,award,10,390
+Hakeem Olajuwon,basketball,1993,All-NBA 1st team,award,5,390
+Charles Barkley,basketball,1993,All-NBA 1st team,award,5,390
+Karl Malone,basketball,1993,All-NBA 1st team,award,5,390
+Michael Jordan,basketball,1993,All-NBA 1st team,award,5,390
+Mark Price,basketball,1993,All-NBA 1st team,award,5,390
+Patrick Ewing,basketball,1993,All-NBA 2nd team,award,10,390
+Dominique Wilkins,basketball,1993,All-NBA 2nd team,award,10,390
+John Stockton,basketball,1993,All-NBA 2nd team,award,10,390
+David Robinson,basketball,1993,All-NBA 3rd team,award,15,390
+Scottie Pippen,basketball,1993,All-NBA 3rd team,award,15,390
+Tim Hardaway,basketball,1993,All-NBA 3rd team,award,15,390
+Michael Jordan,basketball,1992,All-Defense 1st team,award,5,386
+Scottie Pippen,basketball,1992,All-Defense 1st team,award,5,386
+David Robinson,basketball,1992,All-Defense 1st team,award,5,386
+Patrick Ewing,basketball,1992,All-Defense 2nd team,award,10,386
+John Stockton,basketball,1992,All-Defense 2nd team,award,10,386
+David Robinson,basketball,1992,All-NBA 1st team,award,5,386
+Karl Malone,basketball,1992,All-NBA 1st team,award,5,386
+Chris Mullin,basketball,1992,All-NBA 1st team,award,5,386
+Clyde Drexler,basketball,1992,All-NBA 1st team,award,5,386
+Michael Jordan,basketball,1992,All-NBA 1st team,award,5,386
+Patrick Ewing,basketball,1992,All-NBA 2nd team,award,10,386
+Charles Barkley,basketball,1992,All-NBA 2nd team,award,10,386
+Scottie Pippen,basketball,1992,All-NBA 2nd team,award,10,386
+Tim Hardaway,basketball,1992,All-NBA 2nd team,award,10,386
+John Stockton,basketball,1992,All-NBA 2nd team,award,10,386
+Mark Price,basketball,1992,All-NBA 3rd team,award,15,386
+Michael Jordan,basketball,1991,All-Defense 1st team,award,5,387
+David Robinson,basketball,1991,All-Defense 1st team,award,5,387
+Hakeem Olajuwon,basketball,1991,All-Defense 2nd team,award,10,387
+Scottie Pippen,basketball,1991,All-Defense 2nd team,award,10,387
+John Stockton,basketball,1991,All-Defense 2nd team,award,10,387
+David Robinson,basketball,1991,All-NBA 1st team,award,5,387
+Charles Barkley,basketball,1991,All-NBA 1st team,award,5,387
+Karl Malone,basketball,1991,All-NBA 1st team,award,5,387
+Magic Johnson,basketball,1991,All-NBA 1st team,award,5,387
+Michael Jordan,basketball,1991,All-NBA 1st team,award,5,387
+Patrick Ewing,basketball,1991,All-NBA 2nd team,award,10,387
+Chris Mullin,basketball,1991,All-NBA 2nd team,award,10,387
+Dominique Wilkins,basketball,1991,All-NBA 2nd team,award,10,387
+Clyde Drexler,basketball,1991,All-NBA 2nd team,award,10,387
+Hakeem Olajuwon,basketball,1991,All-NBA 3rd team,award,15,387
+Bernard King,basketball,1991,All-NBA 3rd team,award,15,387
+John Stockton,basketball,1991,All-NBA 3rd team,award,15,387
+Michael Jordan,basketball,1990,All-Defense 1st team,award,5,381
+Hakeem Olajuwon,basketball,1990,All-Defense 1st team,award,5,381
+Kevin McHale,basketball,1990,All-Defense 2nd team,award,10,381
+David Robinson,basketball,1990,All-Defense 2nd team,award,10,381
+Patrick Ewing,basketball,1990,All-NBA 1st team,award,5,381
+Charles Barkley,basketball,1990,All-NBA 1st team,award,5,381
+Karl Malone,basketball,1990,All-NBA 1st team,award,5,381
+Magic Johnson,basketball,1990,All-NBA 1st team,award,5,381
+Michael Jordan,basketball,1990,All-NBA 1st team,award,5,381
+Hakeem Olajuwon,basketball,1990,All-NBA 2nd team,award,10,381
+Larry Bird,basketball,1990,All-NBA 2nd team,award,10,381
+John Stockton,basketball,1990,All-NBA 2nd team,award,10,381
+David Robinson,basketball,1990,All-NBA 3rd team,award,15,381
+Chris Mullin,basketball,1990,All-NBA 3rd team,award,15,381
+Clyde Drexler,basketball,1990,All-NBA 3rd team,award,15,381
+Michael Jordan,basketball,1989,All-Defense 1st team,award,5,353
+Patrick Ewing,basketball,1989,All-Defense 2nd team,award,10,353
+Kevin McHale,basketball,1989,All-Defense 2nd team,award,10,353
+John Stockton,basketball,1989,All-Defense 2nd team,award,10,353
+Hakeem Olajuwon,basketball,1989,All-NBA 1st team,award,5,353
+Charles Barkley,basketball,1989,All-NBA 1st team,award,5,353
+Karl Malone,basketball,1989,All-NBA 1st team,award,5,353
+Magic Johnson,basketball,1989,All-NBA 1st team,award,5,353
+Michael Jordan,basketball,1989,All-NBA 1st team,award,5,353
+Patrick Ewing,basketball,1989,All-NBA 2nd team,award,10,353
+Chris Mullin,basketball,1989,All-NBA 2nd team,award,10,353
+John Stockton,basketball,1989,All-NBA 2nd team,award,10,353
+Dominique Wilkins,basketball,1989,All-NBA 3rd team,award,15,353
+Mark Price,basketball,1989,All-NBA 3rd team,award,15,353
+Michael Jordan,basketball,1988,All-Defense 1st team,award,5,332
+Kevin McHale,basketball,1988,All-Defense 1st team,award,5,332
+Hakeem Olajuwon,basketball,1988,All-Defense 1st team,award,5,332
+Karl Malone,basketball,1988,All-Defense 2nd team,award,10,332
+Patrick Ewing,basketball,1988,All-Defense 2nd team,award,10,332
+Hakeem Olajuwon,basketball,1988,All-NBA 1st team,award,5,332
+Charles Barkley,basketball,1988,All-NBA 1st team,award,5,332
+Larry Bird,basketball,1988,All-NBA 1st team,award,5,332
+Magic Johnson,basketball,1988,All-NBA 1st team,award,5,332
+Michael Jordan,basketball,1988,All-NBA 1st team,award,5,332
+Patrick Ewing,basketball,1988,All-NBA 2nd team,award,10,332
+Karl Malone,basketball,1988,All-NBA 2nd team,award,10,332
+Dominique Wilkins,basketball,1988,All-NBA 2nd team,award,10,332
+Clyde Drexler,basketball,1988,All-NBA 2nd team,award,10,332
+John Stockton,basketball,1988,All-NBA 2nd team,award,10,332
+Dennis Johnson,basketball,1987,All-Defense 1st team,award,5,335
+Kevin McHale,basketball,1987,All-Defense 1st team,award,5,335
+Hakeem Olajuwon,basketball,1987,All-Defense 1st team,award,5,335
+Hakeem Olajuwon,basketball,1987,All-NBA 1st team,award,5,335
+Larry Bird,basketball,1987,All-NBA 1st team,award,5,335
+Kevin McHale,basketball,1987,All-NBA 1st team,award,5,335
+Magic Johnson,basketball,1987,All-NBA 1st team,award,5,335
+Michael Jordan,basketball,1987,All-NBA 1st team,award,5,335
+Moses Malone,basketball,1987,All-NBA 2nd team,award,10,335
+Charles Barkley,basketball,1987,All-NBA 2nd team,award,10,335
+Dominique Wilkins,basketball,1987,All-NBA 2nd team,award,10,335
+Isiah Thomas,basketball,1987,All-NBA 2nd team,award,10,335
+Kevin McHale,basketball,1986,All-Defense 1st team,award,5,325
+Sidney Moncrief,basketball,1986,All-Defense 1st team,award,5,325
+Dennis Johnson,basketball,1986,All-Defense 2nd team,award,10,325
+Kareem Abdul-Jabbar,basketball,1986,All-NBA 1st team,award,5,325
+Larry Bird,basketball,1986,All-NBA 1st team,award,5,325
+Dominique Wilkins,basketball,1986,All-NBA 1st team,award,5,325
+Magic Johnson,basketball,1986,All-NBA 1st team,award,5,325
+Isiah Thomas,basketball,1986,All-NBA 1st team,award,5,325
+Hakeem Olajuwon,basketball,1986,All-NBA 2nd team,award,10,325
+Charles Barkley,basketball,1986,All-NBA 2nd team,award,10,325
+Sidney Moncrief,basketball,1986,All-NBA 2nd team,award,10,325
+Sidney Moncrief,basketball,1985,All-Defense 1st team,award,5,320
+Dennis Johnson,basketball,1985,All-Defense 2nd team,award,10,320
+Hakeem Olajuwon,basketball,1985,All-Defense 2nd team,award,10,320
+Moses Malone,basketball,1985,All-NBA 1st team,award,5,320
+Larry Bird,basketball,1985,All-NBA 1st team,award,5,320
+Bernard King,basketball,1985,All-NBA 1st team,award,5,320
+Magic Johnson,basketball,1985,All-NBA 1st team,award,5,320
+Isiah Thomas,basketball,1985,All-NBA 1st team,award,5,320
+Kareem Abdul-Jabbar,basketball,1985,All-NBA 2nd team,award,10,320
+Michael Jordan,basketball,1985,All-NBA 2nd team,award,10,320
+Sidney Moncrief,basketball,1985,All-NBA 2nd team,award,10,320
+Sidney Moncrief,basketball,1984,All-Defense 1st team,award,5,310
+Kareem Abdul-Jabbar,basketball,1984,All-Defense 2nd team,award,10,310
+Larry Bird,basketball,1984,All-Defense 2nd team,award,10,310
+Dennis Johnson,basketball,1984,All-Defense 2nd team,award,10,310
+Kareem Abdul-Jabbar,basketball,1984,All-NBA 1st team,award,5,310
+Larry Bird,basketball,1984,All-NBA 1st team,award,5,310
+Bernard King,basketball,1984,All-NBA 1st team,award,5,310
+Magic Johnson,basketball,1984,All-NBA 1st team,award,5,310
+Isiah Thomas,basketball,1984,All-NBA 1st team,award,5,310
+Moses Malone,basketball,1984,All-NBA 2nd team,award,10,310
+Julius Erving,basketball,1984,All-NBA 2nd team,award,10,310
+Sidney Moncrief,basketball,1984,All-NBA 2nd team,award,10,310
+Moses Malone,basketball,1983,All-Defense 1st team,award,5,316
+Sidney Moncrief,basketball,1983,All-Defense 1st team,award,5,316
+Dennis Johnson,basketball,1983,All-Defense 1st team,award,5,316
+Larry Bird,basketball,1983,All-Defense 2nd team,award,10,316
+Kevin McHale,basketball,1983,All-Defense 2nd team,award,10,316
+Moses Malone,basketball,1983,All-NBA 1st team,award,5,316
+Larry Bird,basketball,1983,All-NBA 1st team,award,5,316
+Julius Erving,basketball,1983,All-NBA 1st team,award,5,316
+Magic Johnson,basketball,1983,All-NBA 1st team,award,5,316
+Sidney Moncrief,basketball,1983,All-NBA 1st team,award,5,316
+Kareem Abdul-Jabbar,basketball,1983,All-NBA 2nd team,award,10,316
+George Gervin,basketball,1983,All-NBA 2nd team,award,10,316
+Isiah Thomas,basketball,1983,All-NBA 2nd team,award,10,316
+Dennis Johnson,basketball,1982,All-Defense 1st team,award,5,316
+Larry Bird,basketball,1982,All-Defense 2nd team,award,10,316
+Sidney Moncrief,basketball,1982,All-Defense 2nd team,award,10,316
+Moses Malone,basketball,1982,All-NBA 1st team,award,5,316
+Larry Bird,basketball,1982,All-NBA 1st team,award,5,316
+Julius Erving,basketball,1982,All-NBA 1st team,award,5,316
+George Gervin,basketball,1982,All-NBA 1st team,award,5,316
+Gus Williams,basketball,1982,All-NBA 1st team,award,5,316
+Bernard King,basketball,1982,All-NBA 2nd team,award,10,316
+Magic Johnson,basketball,1982,All-NBA 2nd team,award,10,316
+Sidney Moncrief,basketball,1982,All-NBA 2nd team,award,10,316
+Kareem Abdul-Jabbar,basketball,1981,All-Defense 1st team,award,5,304
+Dennis Johnson,basketball,1981,All-Defense 1st team,award,5,304
+Kareem Abdul-Jabbar,basketball,1981,All-NBA 1st team,award,5,304
+Larry Bird,basketball,1981,All-NBA 1st team,award,5,304
+Julius Erving,basketball,1981,All-NBA 1st team,award,5,304
+George Gervin,basketball,1981,All-NBA 1st team,award,5,304
+Dennis Johnson,basketball,1981,All-NBA 1st team,award,5,304
+Moses Malone,basketball,1981,All-NBA 2nd team,award,10,304
+Marques Johnson,basketball,1981,All-NBA 2nd team,award,10,304
+Tiny Archibald,basketball,1981,All-NBA 2nd team,award,10,304
+Kareem Abdul-Jabbar,basketball,1980,All-Defense 1st team,award,5,287
+Dennis Johnson,basketball,1980,All-Defense 1st team,award,5,287
+Dave Cowens,basketball,1980,All-Defense 2nd team,award,10,287
+Kareem Abdul-Jabbar,basketball,1980,All-NBA 1st team,award,5,287
+Larry Bird,basketball,1980,All-NBA 1st team,award,5,287
+Julius Erving,basketball,1980,All-NBA 1st team,award,5,287
+George Gervin,basketball,1980,All-NBA 1st team,award,5,287
+Paul Westphal,basketball,1980,All-NBA 1st team,award,5,287
+Moses Malone,basketball,1980,All-NBA 2nd team,award,10,287
+Marques Johnson,basketball,1980,All-NBA 2nd team,award,10,287
+Dennis Johnson,basketball,1980,All-NBA 2nd team,award,10,287
+Gus Williams,basketball,1980,All-NBA 2nd team,award,10,287
+Kareem Abdul-Jabbar,basketball,1979,All-Defense 1st team,award,5,280
+Dennis Johnson,basketball,1979,All-Defense 1st team,award,5,280
+Moses Malone,basketball,1979,All-Defense 2nd team,award,10,280
+Moses Malone,basketball,1979,All-NBA 1st team,award,5,280
+Elvin Hayes,basketball,1979,All-NBA 1st team,award,5,280
+Marques Johnson,basketball,1979,All-NBA 1st team,award,5,280
+George Gervin,basketball,1979,All-NBA 1st team,award,5,280
+Paul Westphal,basketball,1979,All-NBA 1st team,award,5,280
+Kareem Abdul-Jabbar,basketball,1979,All-NBA 2nd team,award,10,280
+Bill Walton,basketball,1978,All-Defense 1st team,award,5,285
+Kareem Abdul-Jabbar,basketball,1978,All-Defense 2nd team,award,10,285
+Bill Walton,basketball,1978,All-NBA 1st team,award,5,285
+Julius Erving,basketball,1978,All-NBA 1st team,award,5,285
+Truck Robinson,basketball,1978,All-NBA 1st team,award,5,285
+George Gervin,basketball,1978,All-NBA 1st team,award,5,285
+David Thompson,basketball,1978,All-NBA 1st team,award,5,285
+Kareem Abdul-Jabbar,basketball,1978,All-NBA 2nd team,award,10,285
+Pete Maravich,basketball,1978,All-NBA 2nd team,award,10,285
+Paul Westphal,basketball,1978,All-NBA 2nd team,award,10,285
+Bill Walton,basketball,1977,All-Defense 1st team,award,5,295
+Kareem Abdul-Jabbar,basketball,1977,All-Defense 2nd team,award,10,295
+Kareem Abdul-Jabbar,basketball,1977,All-NBA 1st team,award,5,295
+Elvin Hayes,basketball,1977,All-NBA 1st team,award,5,295
+David Thompson,basketball,1977,All-NBA 1st team,award,5,295
+Pete Maravich,basketball,1977,All-NBA 1st team,award,5,295
+Paul Westphal,basketball,1977,All-NBA 1st team,award,5,295
+Bill Walton,basketball,1977,All-NBA 2nd team,award,10,295
+Julius Erving,basketball,1977,All-NBA 2nd team,award,10,295
+George McGinnis,basketball,1977,All-NBA 2nd team,award,10,295
+George Gervin,basketball,1977,All-NBA 2nd team,award,10,295
+Julius Erving,basketball,1976,All-Defense 1st team,award,5,238
+Dave Cowens,basketball,1976,All-Defense 1st team,award,5,238
+John Havlicek,basketball,1976,All-Defense 1st team,award,5,238
+Kareem Abdul-Jabbar,basketball,1976,All-Defense 2nd team,award,10,238
+Kareem Abdul-Jabbar,basketball,1976,All-NBA 1st team,award,5,238
+Rick Barry,basketball,1976,All-NBA 1st team,award,5,238
+George McGinnis,basketball,1976,All-NBA 1st team,award,5,238
+Tiny Archibald,basketball,1976,All-NBA 1st team,award,5,238
+Pete Maravich,basketball,1976,All-NBA 1st team,award,5,238
+Dave Cowens,basketball,1976,All-NBA 2nd team,award,10,238
+John Havlicek,basketball,1976,All-NBA 2nd team,award,10,238
+Elvin Hayes,basketball,1976,All-NBA 2nd team,award,10,238
+Kareem Abdul-Jabbar,basketball,1975,All-Defense 1st team,award,5,235
+Walt Frazier,basketball,1975,All-Defense 1st team,award,5,235
+John Havlicek,basketball,1975,All-Defense 1st team,award,5,235
+Dave Cowens,basketball,1975,All-Defense 2nd team,award,10,235
+Elvin Hayes,basketball,1975,All-Defense 2nd team,award,10,235
+Bob McAdoo,basketball,1975,All-NBA 1st team,award,5,235
+Rick Barry,basketball,1975,All-NBA 1st team,award,5,235
+Elvin Hayes,basketball,1975,All-NBA 1st team,award,5,235
+Tiny Archibald,basketball,1975,All-NBA 1st team,award,5,235
+Walt Frazier,basketball,1975,All-NBA 1st team,award,5,235
+Dave Cowens,basketball,1975,All-NBA 2nd team,award,10,235
+John Havlicek,basketball,1975,All-NBA 2nd team,award,10,235
+Spencer Haywood,basketball,1975,All-NBA 2nd team,award,10,235
+Kareem Abdul-Jabbar,basketball,1974,All-Defense 1st team,award,5,222
+John Havlicek,basketball,1974,All-Defense 1st team,award,5,222
+Walt Frazier,basketball,1974,All-Defense 1st team,award,5,222
+Elvin Hayes,basketball,1974,All-Defense 2nd team,award,10,222
+Kareem Abdul-Jabbar,basketball,1974,All-NBA 1st team,award,5,222
+Rick Barry,basketball,1974,All-NBA 1st team,award,5,222
+John Havlicek,basketball,1974,All-NBA 1st team,award,5,222
+Walt Frazier,basketball,1974,All-NBA 1st team,award,5,222
+Gail Goodrich,basketball,1974,All-NBA 1st team,award,5,222
+Bob McAdoo,basketball,1974,All-NBA 2nd team,award,10,222
+Elvin Hayes,basketball,1974,All-NBA 2nd team,award,10,222
+Spencer Haywood,basketball,1974,All-NBA 2nd team,award,10,222
+Dave Bing,basketball,1974,All-NBA 2nd team,award,10,222
+Wilt Chamberlain,basketball,1973,All-Defense 1st team,award,5,215
+Walt Frazier,basketball,1973,All-Defense 1st team,award,5,215
+John Havlicek,basketball,1973,All-Defense 1st team,award,5,215
+Jerry West,basketball,1973,All-Defense 1st team,award,5,215
+Kareem Abdul-Jabbar,basketball,1973,All-NBA 1st team,award,5,215
+John Havlicek,basketball,1973,All-NBA 1st team,award,5,215
+Spencer Haywood,basketball,1973,All-NBA 1st team,award,5,215
+Tiny Archibald,basketball,1973,All-NBA 1st team,award,5,215
+Jerry West,basketball,1973,All-NBA 1st team,award,5,215
+Dave Cowens,basketball,1973,All-NBA 2nd team,award,10,215
+Rick Barry,basketball,1973,All-NBA 2nd team,award,10,215
+Elvin Hayes,basketball,1973,All-NBA 2nd team,award,10,215
+Walt Frazier,basketball,1973,All-NBA 2nd team,award,10,215
+Pete Maravich,basketball,1973,All-NBA 2nd team,award,10,215
+Wilt Chamberlain,basketball,1972,All-Defense 1st team,award,5,216
+John Havlicek,basketball,1972,All-Defense 1st team,award,5,216
+Jerry West,basketball,1972,All-Defense 1st team,award,5,216
+Walt Frazier,basketball,1972,All-Defense 1st team,award,5,216
+Kareem Abdul-Jabbar,basketball,1972,All-NBA 1st team,award,5,216
+John Havlicek,basketball,1972,All-NBA 1st team,award,5,216
+Spencer Haywood,basketball,1972,All-NBA 1st team,award,5,216
+Walt Frazier,basketball,1972,All-NBA 1st team,award,5,216
+Jerry West,basketball,1972,All-NBA 1st team,award,5,216
+Wilt Chamberlain,basketball,1972,All-NBA 2nd team,award,10,216
+Billy Cunningham,basketball,1972,All-NBA 2nd team,award,10,216
+Tiny Archibald,basketball,1972,All-NBA 2nd team,award,10,216
+Walt Frazier,basketball,1971,All-Defense 1st team,award,5,217
+Jerry West,basketball,1971,All-Defense 1st team,award,5,217
+Kareem Abdul-Jabbar,basketball,1971,All-Defense 2nd team,award,10,217
+John Havlicek,basketball,1971,All-Defense 2nd team,award,10,217
+Kareem Abdul-Jabbar,basketball,1971,All-NBA 1st team,award,5,217
+Billy Cunningham,basketball,1971,All-NBA 1st team,award,5,217
+John Havlicek,basketball,1971,All-NBA 1st team,award,5,217
+Dave Bing,basketball,1971,All-NBA 1st team,award,5,217
+Jerry West,basketball,1971,All-NBA 1st team,award,5,217
+Willis Reed,basketball,1971,All-NBA 2nd team,award,10,217
+Walt Frazier,basketball,1971,All-NBA 2nd team,award,10,217
+Oscar Robertson,basketball,1971,All-NBA 2nd team,award,10,217
+Walt Frazier,basketball,1970,All-Defense 1st team,award,5,171
+Willis Reed,basketball,1970,All-Defense 1st team,award,5,171
+Jerry West,basketball,1970,All-Defense 1st team,award,5,171
+Kareem Abdul-Jabbar,basketball,1970,All-Defense 2nd team,award,10,171
+John Havlicek,basketball,1970,All-Defense 2nd team,award,10,171
+Willis Reed,basketball,1970,All-NBA 1st team,award,5,171
+Billy Cunningham,basketball,1970,All-NBA 1st team,award,5,171
+Connie Hawkins,basketball,1970,All-NBA 1st team,award,5,171
+Walt Frazier,basketball,1970,All-NBA 1st team,award,5,171
+Jerry West,basketball,1970,All-NBA 1st team,award,5,171
+Kareem Abdul-Jabbar,basketball,1970,All-NBA 2nd team,award,10,171
+John Havlicek,basketball,1970,All-NBA 2nd team,award,10,171
+Oscar Robertson,basketball,1970,All-NBA 2nd team,award,10,171
+Walt Frazier,basketball,1969,All-Defense 1st team,award,5,168
+Bill Russell,basketball,1969,All-Defense 1st team,award,5,168
+John Havlicek,basketball,1969,All-Defense 2nd team,award,10,168
+Jerry West,basketball,1969,All-Defense 2nd team,award,10,168
+Wes Unseld,basketball,1969,All-NBA 1st team,award,5,168
+Elgin Baylor,basketball,1969,All-NBA 1st team,award,5,168
+Billy Cunningham,basketball,1969,All-NBA 1st team,award,5,168
+Earl Monroe,basketball,1969,All-NBA 1st team,award,5,168
+Oscar Robertson,basketball,1969,All-NBA 1st team,award,5,168
+Willis Reed,basketball,1969,All-NBA 2nd team,award,10,168
+John Havlicek,basketball,1969,All-NBA 2nd team,award,10,168
+Jerry West,basketball,1969,All-NBA 2nd team,award,10,168
+Wilt Chamberlain,basketball,1968,All-NBA 1st team,award,5,151
+Elgin Baylor,basketball,1968,All-NBA 1st team,award,5,151
+Jerry Lucas,basketball,1968,All-NBA 1st team,award,5,151
+Dave Bing,basketball,1968,All-NBA 1st team,award,5,151
+Oscar Robertson,basketball,1968,All-NBA 1st team,award,5,151
+Bill Russell,basketball,1968,All-NBA 2nd team,award,10,151
+John Havlicek,basketball,1968,All-NBA 2nd team,award,10,151
+Willis Reed,basketball,1968,All-NBA 2nd team,award,10,151
+Jerry West,basketball,1968,All-NBA 2nd team,award,10,151
+Wilt Chamberlain,basketball,1967,All-NBA 1st team,award,5,123
+Rick Barry,basketball,1967,All-NBA 1st team,award,5,123
+Elgin Baylor,basketball,1967,All-NBA 1st team,award,5,123
+Oscar Robertson,basketball,1967,All-NBA 1st team,award,5,123
+Jerry West,basketball,1967,All-NBA 1st team,award,5,123
+Bill Russell,basketball,1967,All-NBA 2nd team,award,10,123
+Jerry Lucas,basketball,1967,All-NBA 2nd team,award,10,123
+Willis Reed,basketball,1967,All-NBA 2nd team,award,10,123
+Wilt Chamberlain,basketball,1966,All-NBA 1st team,award,5,111
+Rick Barry,basketball,1966,All-NBA 1st team,award,5,111
+Jerry Lucas,basketball,1966,All-NBA 1st team,award,5,111
+Oscar Robertson,basketball,1966,All-NBA 1st team,award,5,111
+Jerry West,basketball,1966,All-NBA 1st team,award,5,111
+Bill Russell,basketball,1966,All-NBA 2nd team,award,10,111
+John Havlicek,basketball,1966,All-NBA 2nd team,award,10,111
+Bill Russell,basketball,1965,All-NBA 1st team,award,5,114
+Elgin Baylor,basketball,1965,All-NBA 1st team,award,5,114
+Jerry Lucas,basketball,1965,All-NBA 1st team,award,5,114
+Oscar Robertson,basketball,1965,All-NBA 1st team,award,5,114
+Jerry West,basketball,1965,All-NBA 1st team,award,5,114
+Wilt Chamberlain,basketball,1965,All-NBA 2nd team,award,10,114
+Bob Pettit,basketball,1965,All-NBA 2nd team,award,10,114
+Wilt Chamberlain,basketball,1964,All-NBA 1st team,award,5,111
+Elgin Baylor,basketball,1964,All-NBA 1st team,award,5,111
+Bob Pettit,basketball,1964,All-NBA 1st team,award,5,111
+Oscar Robertson,basketball,1964,All-NBA 1st team,award,5,111
+Jerry West,basketball,1964,All-NBA 1st team,award,5,111
+Bill Russell,basketball,1964,All-NBA 2nd team,award,10,111
+Jerry Lucas,basketball,1964,All-NBA 2nd team,award,10,111
+John Havlicek,basketball,1964,All-NBA 2nd team,award,10,111
+Bill Russell,basketball,1963,All-NBA 1st team,award,5,117
+Elgin Baylor,basketball,1963,All-NBA 1st team,award,5,117
+Bob Pettit,basketball,1963,All-NBA 1st team,award,5,117
+Oscar Robertson,basketball,1963,All-NBA 1st team,award,5,117
+Jerry West,basketball,1963,All-NBA 1st team,award,5,117
+Wilt Chamberlain,basketball,1963,All-NBA 2nd team,award,10,117
+Bob Cousy,basketball,1963,All-NBA 2nd team,award,10,117
+Wilt Chamberlain,basketball,1962,All-NBA 1st team,award,5,113
+Elgin Baylor,basketball,1962,All-NBA 1st team,award,5,113
+Bob Pettit,basketball,1962,All-NBA 1st team,award,5,113
+Oscar Robertson,basketball,1962,All-NBA 1st team,award,5,113
+Jerry West,basketball,1962,All-NBA 1st team,award,5,113
+Bill Russell,basketball,1962,All-NBA 2nd team,award,10,113
+Bob Cousy,basketball,1962,All-NBA 2nd team,award,10,113
+Wilt Chamberlain,basketball,1961,All-NBA 1st team,award,5,93
+Elgin Baylor,basketball,1961,All-NBA 1st team,award,5,93
+Bob Pettit,basketball,1961,All-NBA 1st team,award,5,93
+Bob Cousy,basketball,1961,All-NBA 1st team,award,5,93
+Oscar Robertson,basketball,1961,All-NBA 1st team,award,5,93
+Bill Russell,basketball,1961,All-NBA 2nd team,award,10,93
+Dolph Schayes,basketball,1961,All-NBA 2nd team,award,10,93
+Gene Shue,basketball,1961,All-NBA 2nd team,award,10,93
+Wilt Chamberlain,basketball,1960,All-NBA 1st team,award,5,99
+Elgin Baylor,basketball,1960,All-NBA 1st team,award,5,99
+Bob Pettit,basketball,1960,All-NBA 1st team,award,5,99
+Bob Cousy,basketball,1960,All-NBA 1st team,award,5,99
+Gene Shue,basketball,1960,All-NBA 1st team,award,5,99
+Bill Russell,basketball,1960,All-NBA 2nd team,award,10,99
+Dolph Schayes,basketball,1960,All-NBA 2nd team,award,10,99
+Bill Sharman,basketball,1960,All-NBA 2nd team,award,10,99
+Bill Russell,basketball,1959,All-NBA 1st team,award,5,92
+Elgin Baylor,basketball,1959,All-NBA 1st team,award,5,92
+Bob Pettit,basketball,1959,All-NBA 1st team,award,5,92
+Bob Cousy,basketball,1959,All-NBA 1st team,award,5,92
+Bill Sharman,basketball,1959,All-NBA 1st team,award,5,92
+Dolph Schayes,basketball,1959,All-NBA 2nd team,award,10,92
+Paul Arizin,basketball,1959,All-NBA 2nd team,award,10,92
+Bob Pettit,basketball,1958,All-NBA 1st team,award,5,99
+Dolph Schayes,basketball,1958,All-NBA 1st team,award,5,99
+George Yardley,basketball,1958,All-NBA 1st team,award,5,99
+Bob Cousy,basketball,1958,All-NBA 1st team,award,5,99
+Bill Sharman,basketball,1958,All-NBA 1st team,award,5,99
+Bill Russell,basketball,1958,All-NBA 2nd team,award,10,99
+Bob Pettit,basketball,1957,All-NBA 1st team,award,5,99
+Paul Arizin,basketball,1957,All-NBA 1st team,award,5,99
+Dolph Schayes,basketball,1957,All-NBA 1st team,award,5,99
+Bob Cousy,basketball,1957,All-NBA 1st team,award,5,99
+Bill Sharman,basketball,1957,All-NBA 1st team,award,5,99
+Neil Johnston,basketball,1957,All-NBA 2nd team,award,10,99
+George Yardley,basketball,1957,All-NBA 2nd team,award,10,99
+Neil Johnston,basketball,1956,All-NBA 1st team,award,5,92
+Paul Arizin,basketball,1956,All-NBA 1st team,award,5,92
+Bob Pettit,basketball,1956,All-NBA 1st team,award,5,92
+Bob Cousy,basketball,1956,All-NBA 1st team,award,5,92
+Bill Sharman,basketball,1956,All-NBA 1st team,award,5,92
+Dolph Schayes,basketball,1956,All-NBA 2nd team,award,10,92
+Bob Cousy,basketball,1955,All-NBA 1st team,award,5,105
+Larry Foust,basketball,1955,All-NBA 1st team,award,5,105
+Neil Johnston,basketball,1955,All-NBA 1st team,award,5,105
+Bob Pettit,basketball,1955,All-NBA 1st team,award,5,105
+Dolph Schayes,basketball,1955,All-NBA 1st team,award,5,105
+Harry Gallatin,basketball,1955,All-NBA 2nd team,award,10,105
+Bill Sharman,basketball,1955,All-NBA 2nd team,award,10,105
+Bob Cousy,basketball,1954,All-NBA 1st team,award,5,110
+Harry Gallatin,basketball,1954,All-NBA 1st team,award,5,110
+Neil Johnston,basketball,1954,All-NBA 1st team,award,5,110
+George Mikan,basketball,1954,All-NBA 1st team,award,5,110
+Dolph Schayes,basketball,1954,All-NBA 1st team,award,5,110
+Ed Macauley,basketball,1954,All-NBA 2nd team,award,10,110
+Jim Pollard,basketball,1954,All-NBA 2nd team,award,10,110
+Bob Cousy,basketball,1953,All-NBA 1st team,award,5,124
+Neil Johnston,basketball,1953,All-NBA 1st team,award,5,124
+Ed Macauley,basketball,1953,All-NBA 1st team,award,5,124
+George Mikan,basketball,1953,All-NBA 1st team,award,5,124
+Dolph Schayes,basketball,1953,All-NBA 1st team,award,5,124
+Bob Davies,basketball,1953,All-NBA 2nd team,award,10,124
+Bill Sharman,basketball,1953,All-NBA 2nd team,award,10,124
+Paul Arizin,basketball,1952,All-NBA 1st team,award,5,116
+Bob Cousy,basketball,1952,All-NBA 1st team,award,5,116
+Ed Macauley,basketball,1952,All-NBA 1st team,award,5,116
+George Mikan,basketball,1952,All-NBA 1st team,award,5,116
+Bob Davies,basketball,1952,All-NBA 1st team,award,5,116
+Dolph Schayes,basketball,1952,All-NBA 1st team,award,5,116
+Larry Foust,basketball,1952,All-NBA 2nd team,award,10,116
+Jim Pollard,basketball,1952,All-NBA 2nd team,award,10,116
+Ralph Beard,basketball,1951,All-NBA 1st team,award,5,135
+Bob Davies,basketball,1951,All-NBA 1st team,award,5,135
+Alex Groza,basketball,1951,All-NBA 1st team,award,5,135
+Ed Macauley,basketball,1951,All-NBA 1st team,award,5,135
+George Mikan,basketball,1951,All-NBA 1st team,award,5,135
+Joe Fulks,basketball,1951,All-NBA 2nd team,award,10,135
+Dolph Schayes,basketball,1951,All-NBA 2nd team,award,10,135
+Bob Davies,basketball,1950,All-NBA 1st team,award,5,223
+Alex Groza,basketball,1950,All-NBA 1st team,award,5,223
+George Mikan,basketball,1950,All-NBA 1st team,award,5,223
+Jim Pollard,basketball,1950,All-NBA 1st team,award,5,223
+Max Zaslofsky,basketball,1950,All-NBA 1st team,award,5,223
+Ralph Beard,basketball,1950,All-NBA 2nd team,award,10,223
+Dolph Schayes,basketball,1950,All-NBA 2nd team,award,10,223
+Bob Davies,basketball,1949,All-NBA 1st team,award,5,170
+Joe Fulks,basketball,1949,All-NBA 1st team,award,5,170
+George Mikan,basketball,1949,All-NBA 1st team,award,5,170
+Jim Pollard,basketball,1949,All-NBA 1st team,award,5,170
+Max Zaslofsky,basketball,1949,All-NBA 1st team,award,5,170
+Bob Feerick,basketball,1949,All-NBA 2nd team,award,10,170
+Bones McKinney,basketball,1949,All-NBA 2nd team,award,10,170
+Howie Dallmar,basketball,1948,All-NBA 1st team,award,5,103
+Bob Feerick,basketball,1948,All-NBA 1st team,award,5,103
+Joe Fulks,basketball,1948,All-NBA 1st team,award,5,103
+Ed Sadowski,basketball,1948,All-NBA 1st team,award,5,103
+Max Zaslofsky,basketball,1948,All-NBA 1st team,award,5,103
+Stan Miasek,basketball,1948,All-NBA 2nd team,award,10,103
+Bob Feerick,basketball,1947,All-NBA 1st team,award,5,161
+Joe Fulks,basketball,1947,All-NBA 1st team,award,5,161
+Bones McKinney,basketball,1947,All-NBA 1st team,award,5,161
+Stan Miasek,basketball,1947,All-NBA 1st team,award,5,161
+Max Zaslofsky,basketball,1947,All-NBA 1st team,award,5,161
+Devin Booker,basketball,2026,All-Star,award,28,582
+Stephen Curry,basketball,2026,All-Star,award,28,582
+Kevin Durant,basketball,2026,All-Star,award,28,582
+LeBron James,basketball,2026,All-Star,award,28,582
+Kawhi Leonard,basketball,2026,All-Star,award,28,582
+Donovan Mitchell,basketball,2026,All-Star,award,28,582
+Giannis Antetokounmpo,basketball,2026,All-Star,award,28,582
+Luka Dončić,basketball,2026,All-Star,award,28,582
+Shai Gilgeous-Alexander,basketball,2026,All-Star,award,28,582
+Nikola Jokić,basketball,2026,All-Star,award,28,582
+Giannis Antetokounmpo,basketball,2025,All-Star,award,26,569
+Shai Gilgeous-Alexander,basketball,2025,All-Star,award,26,569
+Nikola Jokić,basketball,2025,All-Star,award,26,569
+Donovan Mitchell,basketball,2025,All-Star,award,26,569
+Stephen Curry,basketball,2025,All-Star,award,26,569
+Anthony Davis,basketball,2025,All-Star,award,26,569
+Kevin Durant,basketball,2025,All-Star,award,26,569
+James Harden,basketball,2025,All-Star,award,26,569
+LeBron James,basketball,2025,All-Star,award,26,569
+Damian Lillard,basketball,2025,All-Star,award,26,569
+Jayson Tatum,basketball,2025,All-Star,award,26,569
+Giannis Antetokounmpo,basketball,2024,All-Star,award,26,572
+Joel Embiid,basketball,2024,All-Star,award,26,572
+Damian Lillard,basketball,2024,All-Star,award,26,572
+Donovan Mitchell,basketball,2024,All-Star,award,26,572
+Jayson Tatum,basketball,2024,All-Star,award,26,572
+Devin Booker,basketball,2024,All-Star,award,26,572
+Stephen Curry,basketball,2024,All-Star,award,26,572
+Anthony Davis,basketball,2024,All-Star,award,26,572
+Luka Dončić,basketball,2024,All-Star,award,26,572
+Kevin Durant,basketball,2024,All-Star,award,26,572
+Paul George,basketball,2024,All-Star,award,26,572
+Shai Gilgeous-Alexander,basketball,2024,All-Star,award,26,572
+LeBron James,basketball,2024,All-Star,award,26,572
+Nikola Jokić,basketball,2024,All-Star,award,26,572
+Kawhi Leonard,basketball,2024,All-Star,award,26,572
+Giannis Antetokounmpo,basketball,2023,All-Star,award,27,539
+Kevin Durant,basketball,2023,All-Star,award,27,539
+Shai Gilgeous-Alexander,basketball,2023,All-Star,award,27,539
+Damian Lillard,basketball,2023,All-Star,award,27,539
+Donovan Mitchell,basketball,2023,All-Star,award,27,539
+Jayson Tatum,basketball,2023,All-Star,award,27,539
+Stephen Curry,basketball,2023,All-Star,award,27,539
+Luka Dončić,basketball,2023,All-Star,award,27,539
+Joel Embiid,basketball,2023,All-Star,award,27,539
+Paul George,basketball,2023,All-Star,award,27,539
+LeBron James,basketball,2023,All-Star,award,27,539
+Nikola Jokić,basketball,2023,All-Star,award,27,539
+Devin Booker,basketball,2022,All-Star,award,27,605
+Kevin Durant,basketball,2022,All-Star,award,27,605
+Joel Embiid,basketball,2022,All-Star,award,27,605
+Jayson Tatum,basketball,2022,All-Star,award,27,605
+Giannis Antetokounmpo,basketball,2022,All-Star,award,27,605
+Stephen Curry,basketball,2022,All-Star,award,27,605
+Luka Dončić,basketball,2022,All-Star,award,27,605
+James Harden,basketball,2022,All-Star,award,27,605
+LeBron James,basketball,2022,All-Star,award,27,605
+Nikola Jokić,basketball,2022,All-Star,award,27,605
+Donovan Mitchell,basketball,2022,All-Star,award,27,605
+Chris Paul,basketball,2022,All-Star,award,27,605
+Devin Booker,basketball,2021,All-Star,award,27,540
+Anthony Davis,basketball,2021,All-Star,award,27,540
+Kevin Durant,basketball,2021,All-Star,award,27,540
+Joel Embiid,basketball,2021,All-Star,award,27,540
+James Harden,basketball,2021,All-Star,award,27,540
+Kawhi Leonard,basketball,2021,All-Star,award,27,540
+Donovan Mitchell,basketball,2021,All-Star,award,27,540
+Jayson Tatum,basketball,2021,All-Star,award,27,540
+Giannis Antetokounmpo,basketball,2021,All-Star,award,27,540
+Stephen Curry,basketball,2021,All-Star,award,27,540
+Luka Dončić,basketball,2021,All-Star,award,27,540
+Paul George,basketball,2021,All-Star,award,27,540
+LeBron James,basketball,2021,All-Star,award,27,540
+Nikola Jokić,basketball,2021,All-Star,award,27,540
+Damian Lillard,basketball,2021,All-Star,award,27,540
+Chris Paul,basketball,2021,All-Star,award,27,540
+Giannis Antetokounmpo,basketball,2020,All-Star,award,25,529
+Joel Embiid,basketball,2020,All-Star,award,25,529
+Donovan Mitchell,basketball,2020,All-Star,award,25,529
+Devin Booker,basketball,2020,All-Star,award,25,529
+Anthony Davis,basketball,2020,All-Star,award,25,529
+Luka Dončić,basketball,2020,All-Star,award,25,529
+James Harden,basketball,2020,All-Star,award,25,529
+LeBron James,basketball,2020,All-Star,award,25,529
+Nikola Jokić,basketball,2020,All-Star,award,25,529
+Kawhi Leonard,basketball,2020,All-Star,award,25,529
+Damian Lillard,basketball,2020,All-Star,award,25,529
+Chris Paul,basketball,2020,All-Star,award,25,529
+Jayson Tatum,basketball,2020,All-Star,award,25,529
+Russell Westbrook,basketball,2020,All-Star,award,25,529
+Giannis Antetokounmpo,basketball,2019,All-Star,award,27,530
+Stephen Curry,basketball,2019,All-Star,award,27,530
+Joel Embiid,basketball,2019,All-Star,award,27,530
+Paul George,basketball,2019,All-Star,award,27,530
+Nikola Jokić,basketball,2019,All-Star,award,27,530
+Dirk Nowitzki,basketball,2019,All-Star,award,27,530
+Russell Westbrook,basketball,2019,All-Star,award,27,530
+Anthony Davis,basketball,2019,All-Star,award,27,530
+Kevin Durant,basketball,2019,All-Star,award,27,530
+James Harden,basketball,2019,All-Star,award,27,530
+LeBron James,basketball,2019,All-Star,award,27,530
+Kawhi Leonard,basketball,2019,All-Star,award,27,530
+Damian Lillard,basketball,2019,All-Star,award,27,530
+Dwyane Wade,basketball,2019,All-Star,award,27,530
+Anthony Davis,basketball,2018,All-Star,award,28,540
+Kevin Durant,basketball,2018,All-Star,award,28,540
+Paul George,basketball,2018,All-Star,award,28,540
+LeBron James,basketball,2018,All-Star,award,28,540
+Russell Westbrook,basketball,2018,All-Star,award,28,540
+Giannis Antetokounmpo,basketball,2018,All-Star,award,28,540
+Stephen Curry,basketball,2018,All-Star,award,28,540
+Joel Embiid,basketball,2018,All-Star,award,28,540
+James Harden,basketball,2018,All-Star,award,28,540
+Damian Lillard,basketball,2018,All-Star,award,28,540
+Giannis Antetokounmpo,basketball,2017,All-Star,award,25,486
+Paul George,basketball,2017,All-Star,award,25,486
+LeBron James,basketball,2017,All-Star,award,25,486
+Stephen Curry,basketball,2017,All-Star,award,25,486
+Anthony Davis,basketball,2017,All-Star,award,25,486
+Kevin Durant,basketball,2017,All-Star,award,25,486
+Marc Gasol,basketball,2017,All-Star,award,25,486
+James Harden,basketball,2017,All-Star,award,25,486
+DeAndre Jordan,basketball,2017,All-Star,award,25,486
+Kawhi Leonard,basketball,2017,All-Star,award,25,486
+Russell Westbrook,basketball,2017,All-Star,award,25,486
+Paul George,basketball,2016,All-Star,award,26,476
+LeBron James,basketball,2016,All-Star,award,26,476
+Dwyane Wade,basketball,2016,All-Star,award,26,476
+Kobe Bryant,basketball,2016,All-Star,award,26,476
+Stephen Curry,basketball,2016,All-Star,award,26,476
+Anthony Davis,basketball,2016,All-Star,award,26,476
+Kevin Durant,basketball,2016,All-Star,award,26,476
+James Harden,basketball,2016,All-Star,award,26,476
+Kawhi Leonard,basketball,2016,All-Star,award,26,476
+Chris Paul,basketball,2016,All-Star,award,26,476
+Russell Westbrook,basketball,2016,All-Star,award,26,476
+LeBron James,basketball,2015,All-Star,award,28,492
+Dwyane Wade,basketball,2015,All-Star,award,28,492
+Kobe Bryant,basketball,2015,All-Star,award,28,492
+Stephen Curry,basketball,2015,All-Star,award,28,492
+Anthony Davis,basketball,2015,All-Star,award,28,492
+Tim Duncan,basketball,2015,All-Star,award,28,492
+Kevin Durant,basketball,2015,All-Star,award,28,492
+Marc Gasol,basketball,2015,All-Star,award,28,492
+James Harden,basketball,2015,All-Star,award,28,492
+Damian Lillard,basketball,2015,All-Star,award,28,492
+Dirk Nowitzki,basketball,2015,All-Star,award,28,492
+Chris Paul,basketball,2015,All-Star,award,28,492
+Russell Westbrook,basketball,2015,All-Star,award,28,492
+Paul George,basketball,2014,All-Star,award,25,482
+LeBron James,basketball,2014,All-Star,award,25,482
+Joakim Noah,basketball,2014,All-Star,award,25,482
+Dwyane Wade,basketball,2014,All-Star,award,25,482
+Kobe Bryant,basketball,2014,All-Star,award,25,482
+Stephen Curry,basketball,2014,All-Star,award,25,482
+Anthony Davis,basketball,2014,All-Star,award,25,482
+Kevin Durant,basketball,2014,All-Star,award,25,482
+James Harden,basketball,2014,All-Star,award,25,482
+Dwight Howard,basketball,2014,All-Star,award,25,482
+Damian Lillard,basketball,2014,All-Star,award,25,482
+Dirk Nowitzki,basketball,2014,All-Star,award,25,482
+Chris Paul,basketball,2014,All-Star,award,25,482
+Kevin Garnett,basketball,2013,All-Star,award,25,469
+Paul George,basketball,2013,All-Star,award,25,469
+LeBron James,basketball,2013,All-Star,award,25,469
+Joakim Noah,basketball,2013,All-Star,award,25,469
+Dwyane Wade,basketball,2013,All-Star,award,25,469
+Kobe Bryant,basketball,2013,All-Star,award,25,469
+Tim Duncan,basketball,2013,All-Star,award,25,469
+Kevin Durant,basketball,2013,All-Star,award,25,469
+James Harden,basketball,2013,All-Star,award,25,469
+Dwight Howard,basketball,2013,All-Star,award,25,469
+Chris Paul,basketball,2013,All-Star,award,25,469
+Russell Westbrook,basketball,2013,All-Star,award,25,469
+Dwight Howard,basketball,2012,All-Star,award,25,478
+LeBron James,basketball,2012,All-Star,award,25,478
+Derrick Rose,basketball,2012,All-Star,award,25,478
+Dwyane Wade,basketball,2012,All-Star,award,25,478
+Kobe Bryant,basketball,2012,All-Star,award,25,478
+Kevin Durant,basketball,2012,All-Star,award,25,478
+Marc Gasol,basketball,2012,All-Star,award,25,478
+Steve Nash,basketball,2012,All-Star,award,25,478
+Dirk Nowitzki,basketball,2012,All-Star,award,25,478
+Chris Paul,basketball,2012,All-Star,award,25,478
+Russell Westbrook,basketball,2012,All-Star,award,25,478
+Kevin Garnett,basketball,2011,All-Star,award,25,452
+Dwight Howard,basketball,2011,All-Star,award,25,452
+LeBron James,basketball,2011,All-Star,award,25,452
+Derrick Rose,basketball,2011,All-Star,award,25,452
+Amar'e Stoudemire,basketball,2011,All-Star,award,25,452
+Dwyane Wade,basketball,2011,All-Star,award,25,452
+Kobe Bryant,basketball,2011,All-Star,award,25,452
+Tim Duncan,basketball,2011,All-Star,award,25,452
+Kevin Durant,basketball,2011,All-Star,award,25,452
+Dirk Nowitzki,basketball,2011,All-Star,award,25,452
+Chris Paul,basketball,2011,All-Star,award,25,452
+Russell Westbrook,basketball,2011,All-Star,award,25,452
+Kevin Garnett,basketball,2010,All-Star,award,28,442
+Dwight Howard,basketball,2010,All-Star,award,28,442
+Allen Iverson,basketball,2010,All-Star,award,28,442
+LeBron James,basketball,2010,All-Star,award,28,442
+Derrick Rose,basketball,2010,All-Star,award,28,442
+Dwyane Wade,basketball,2010,All-Star,award,28,442
+Kobe Bryant,basketball,2010,All-Star,award,28,442
+Tim Duncan,basketball,2010,All-Star,award,28,442
+Kevin Durant,basketball,2010,All-Star,award,28,442
+Jason Kidd,basketball,2010,All-Star,award,28,442
+Steve Nash,basketball,2010,All-Star,award,28,442
+Dirk Nowitzki,basketball,2010,All-Star,award,28,442
+Chris Paul,basketball,2010,All-Star,award,28,442
+Amar'e Stoudemire,basketball,2010,All-Star,award,28,442
+Kevin Garnett,basketball,2009,All-Star,award,26,445
+Dwight Howard,basketball,2009,All-Star,award,26,445
+Allen Iverson,basketball,2009,All-Star,award,26,445
+LeBron James,basketball,2009,All-Star,award,26,445
+Dwyane Wade,basketball,2009,All-Star,award,26,445
+Kobe Bryant,basketball,2009,All-Star,award,26,445
+Tim Duncan,basketball,2009,All-Star,award,26,445
+Dirk Nowitzki,basketball,2009,All-Star,award,26,445
+Shaquille O'Neal,basketball,2009,All-Star,award,26,445
+Chris Paul,basketball,2009,All-Star,award,26,445
+Amar'e Stoudemire,basketball,2009,All-Star,award,26,445
+Kevin Garnett,basketball,2008,All-Star,award,26,451
+Dwight Howard,basketball,2008,All-Star,award,26,451
+LeBron James,basketball,2008,All-Star,award,26,451
+Jason Kidd,basketball,2008,All-Star,award,26,451
+Dwyane Wade,basketball,2008,All-Star,award,26,451
+Kobe Bryant,basketball,2008,All-Star,award,26,451
+Tim Duncan,basketball,2008,All-Star,award,26,451
+Allen Iverson,basketball,2008,All-Star,award,26,451
+Steve Nash,basketball,2008,All-Star,award,26,451
+Dirk Nowitzki,basketball,2008,All-Star,award,26,451
+Chris Paul,basketball,2008,All-Star,award,26,451
+Amar'e Stoudemire,basketball,2008,All-Star,award,26,451
+Dwight Howard,basketball,2007,All-Star,award,29,458
+LeBron James,basketball,2007,All-Star,award,29,458
+Jason Kidd,basketball,2007,All-Star,award,29,458
+Shaquille O'Neal,basketball,2007,All-Star,award,29,458
+Dwyane Wade,basketball,2007,All-Star,award,29,458
+Kobe Bryant,basketball,2007,All-Star,award,29,458
+Tim Duncan,basketball,2007,All-Star,award,29,458
+Kevin Garnett,basketball,2007,All-Star,award,29,458
+Allen Iverson,basketball,2007,All-Star,award,29,458
+Tracy McGrady,basketball,2007,All-Star,award,29,458
+Steve Nash,basketball,2007,All-Star,award,29,458
+Dirk Nowitzki,basketball,2007,All-Star,award,29,458
+Amar'e Stoudemire,basketball,2007,All-Star,award,29,458
+Allen Iverson,basketball,2006,All-Star,award,25,458
+LeBron James,basketball,2006,All-Star,award,25,458
+Shaquille O'Neal,basketball,2006,All-Star,award,25,458
+Dwyane Wade,basketball,2006,All-Star,award,25,458
+Kobe Bryant,basketball,2006,All-Star,award,25,458
+Tim Duncan,basketball,2006,All-Star,award,25,458
+Kevin Garnett,basketball,2006,All-Star,award,25,458
+Tracy McGrady,basketball,2006,All-Star,award,25,458
+Steve Nash,basketball,2006,All-Star,award,25,458
+Dirk Nowitzki,basketball,2006,All-Star,award,25,458
+Grant Hill,basketball,2005,All-Star,award,24,464
+Allen Iverson,basketball,2005,All-Star,award,24,464
+LeBron James,basketball,2005,All-Star,award,24,464
+Shaquille O'Neal,basketball,2005,All-Star,award,24,464
+Dwyane Wade,basketball,2005,All-Star,award,24,464
+Kobe Bryant,basketball,2005,All-Star,award,24,464
+Tim Duncan,basketball,2005,All-Star,award,24,464
+Kevin Garnett,basketball,2005,All-Star,award,24,464
+Tracy McGrady,basketball,2005,All-Star,award,24,464
+Steve Nash,basketball,2005,All-Star,award,24,464
+Dirk Nowitzki,basketball,2005,All-Star,award,24,464
+Amar'e Stoudemire,basketball,2005,All-Star,award,24,464
+Allen Iverson,basketball,2004,All-Star,award,24,442
+Jason Kidd,basketball,2004,All-Star,award,24,442
+Tracy McGrady,basketball,2004,All-Star,award,24,442
+Kobe Bryant,basketball,2004,All-Star,award,24,442
+Tim Duncan,basketball,2004,All-Star,award,24,442
+Kevin Garnett,basketball,2004,All-Star,award,24,442
+Dirk Nowitzki,basketball,2004,All-Star,award,24,442
+Shaquille O'Neal,basketball,2004,All-Star,award,24,442
+Allen Iverson,basketball,2003,All-Star,award,25,428
+Michael Jordan,basketball,2003,All-Star,award,25,428
+Jason Kidd,basketball,2003,All-Star,award,25,428
+Tracy McGrady,basketball,2003,All-Star,award,25,428
+Kobe Bryant,basketball,2003,All-Star,award,25,428
+Tim Duncan,basketball,2003,All-Star,award,25,428
+Kevin Garnett,basketball,2003,All-Star,award,25,428
+Steve Nash,basketball,2003,All-Star,award,25,428
+Dirk Nowitzki,basketball,2003,All-Star,award,25,428
+Shaquille O'Neal,basketball,2003,All-Star,award,25,428
+Gary Payton,basketball,2003,All-Star,award,25,428
+Chris Webber,basketball,2003,All-Star,award,25,428
+Allen Iverson,basketball,2002,All-Star,award,26,440
+Michael Jordan,basketball,2002,All-Star,award,26,440
+Jason Kidd,basketball,2002,All-Star,award,26,440
+Tracy McGrady,basketball,2002,All-Star,award,26,440
+Alonzo Mourning,basketball,2002,All-Star,award,26,440
+Kobe Bryant,basketball,2002,All-Star,award,26,440
+Tim Duncan,basketball,2002,All-Star,award,26,440
+Kevin Garnett,basketball,2002,All-Star,award,26,440
+Karl Malone,basketball,2002,All-Star,award,26,440
+Steve Nash,basketball,2002,All-Star,award,26,440
+Dirk Nowitzki,basketball,2002,All-Star,award,26,440
+Shaquille O'Neal,basketball,2002,All-Star,award,26,440
+Gary Payton,basketball,2002,All-Star,award,26,440
+Chris Webber,basketball,2002,All-Star,award,26,440
+Grant Hill,basketball,2001,All-Star,award,28,441
+Allen Iverson,basketball,2001,All-Star,award,28,441
+Tracy McGrady,basketball,2001,All-Star,award,28,441
+Alonzo Mourning,basketball,2001,All-Star,award,28,441
+Latrell Sprewell,basketball,2001,All-Star,award,28,441
+Kobe Bryant,basketball,2001,All-Star,award,28,441
+Tim Duncan,basketball,2001,All-Star,award,28,441
+Kevin Garnett,basketball,2001,All-Star,award,28,441
+Jason Kidd,basketball,2001,All-Star,award,28,441
+Karl Malone,basketball,2001,All-Star,award,28,441
+Shaquille O'Neal,basketball,2001,All-Star,award,28,441
+Gary Payton,basketball,2001,All-Star,award,28,441
+David Robinson,basketball,2001,All-Star,award,28,441
+Chris Webber,basketball,2001,All-Star,award,28,441
+Grant Hill,basketball,2000,All-Star,award,24,439
+Allen Iverson,basketball,2000,All-Star,award,24,439
+Alonzo Mourning,basketball,2000,All-Star,award,24,439
+Kobe Bryant,basketball,2000,All-Star,award,24,439
+Tim Duncan,basketball,2000,All-Star,award,24,439
+Kevin Garnett,basketball,2000,All-Star,award,24,439
+Jason Kidd,basketball,2000,All-Star,award,24,439
+Karl Malone,basketball,2000,All-Star,award,24,439
+Shaquille O'Neal,basketball,2000,All-Star,award,24,439
+Gary Payton,basketball,2000,All-Star,award,24,439
+David Robinson,basketball,2000,All-Star,award,24,439
+John Stockton,basketball,2000,All-Star,award,24,439
+Chris Webber,basketball,2000,All-Star,award,24,439
+Anfernee Hardaway,basketball,1998,All-Star,award,24,439
+Tim Hardaway,basketball,1998,All-Star,award,24,439
+Grant Hill,basketball,1998,All-Star,award,24,439
+Michael Jordan,basketball,1998,All-Star,award,24,439
+Kobe Bryant,basketball,1998,All-Star,award,24,439
+Tim Duncan,basketball,1998,All-Star,award,24,439
+Kevin Garnett,basketball,1998,All-Star,award,24,439
+Jason Kidd,basketball,1998,All-Star,award,24,439
+Karl Malone,basketball,1998,All-Star,award,24,439
+Shaquille O'Neal,basketball,1998,All-Star,award,24,439
+Gary Payton,basketball,1998,All-Star,award,24,439
+David Robinson,basketball,1998,All-Star,award,24,439
+Patrick Ewing,basketball,1997,All-Star,award,29,441
+Anfernee Hardaway,basketball,1997,All-Star,award,29,441
+Tim Hardaway,basketball,1997,All-Star,award,29,441
+Grant Hill,basketball,1997,All-Star,award,29,441
+Michael Jordan,basketball,1997,All-Star,award,29,441
+Alonzo Mourning,basketball,1997,All-Star,award,29,441
+Scottie Pippen,basketball,1997,All-Star,award,29,441
+Chris Webber,basketball,1997,All-Star,award,29,441
+Charles Barkley,basketball,1997,All-Star,award,29,441
+Clyde Drexler,basketball,1997,All-Star,award,29,441
+Kevin Garnett,basketball,1997,All-Star,award,29,441
+Karl Malone,basketball,1997,All-Star,award,29,441
+Hakeem Olajuwon,basketball,1997,All-Star,award,29,441
+Shaquille O'Neal,basketball,1997,All-Star,award,29,441
+Gary Payton,basketball,1997,All-Star,award,29,441
+Latrell Sprewell,basketball,1997,All-Star,award,29,441
+John Stockton,basketball,1997,All-Star,award,29,441
+Patrick Ewing,basketball,1996,All-Star,award,24,429
+Anfernee Hardaway,basketball,1996,All-Star,award,24,429
+Grant Hill,basketball,1996,All-Star,award,24,429
+Michael Jordan,basketball,1996,All-Star,award,24,429
+Alonzo Mourning,basketball,1996,All-Star,award,24,429
+Shaquille O'Neal,basketball,1996,All-Star,award,24,429
+Scottie Pippen,basketball,1996,All-Star,award,24,429
+Charles Barkley,basketball,1996,All-Star,award,24,429
+Clyde Drexler,basketball,1996,All-Star,award,24,429
+Jason Kidd,basketball,1996,All-Star,award,24,429
+Karl Malone,basketball,1996,All-Star,award,24,429
+Hakeem Olajuwon,basketball,1996,All-Star,award,24,429
+Gary Payton,basketball,1996,All-Star,award,24,429
+David Robinson,basketball,1996,All-Star,award,24,429
+John Stockton,basketball,1996,All-Star,award,24,429
+Patrick Ewing,basketball,1995,All-Star,award,25,407
+Anfernee Hardaway,basketball,1995,All-Star,award,25,407
+Grant Hill,basketball,1995,All-Star,award,25,407
+Alonzo Mourning,basketball,1995,All-Star,award,25,407
+Shaquille O'Neal,basketball,1995,All-Star,award,25,407
+Scottie Pippen,basketball,1995,All-Star,award,25,407
+Charles Barkley,basketball,1995,All-Star,award,25,407
+Karl Malone,basketball,1995,All-Star,award,25,407
+Hakeem Olajuwon,basketball,1995,All-Star,award,25,407
+Gary Payton,basketball,1995,All-Star,award,25,407
+David Robinson,basketball,1995,All-Star,award,25,407
+Latrell Sprewell,basketball,1995,All-Star,award,25,407
+John Stockton,basketball,1995,All-Star,award,25,407
+Patrick Ewing,basketball,1994,All-Star,award,26,403
+Alonzo Mourning,basketball,1994,All-Star,award,26,403
+Shaquille O'Neal,basketball,1994,All-Star,award,26,403
+Scottie Pippen,basketball,1994,All-Star,award,26,403
+Mark Price,basketball,1994,All-Star,award,26,403
+Dominique Wilkins,basketball,1994,All-Star,award,26,403
+Charles Barkley,basketball,1994,All-Star,award,26,403
+Clyde Drexler,basketball,1994,All-Star,award,26,403
+Karl Malone,basketball,1994,All-Star,award,26,403
+Hakeem Olajuwon,basketball,1994,All-Star,award,26,403
+Gary Payton,basketball,1994,All-Star,award,26,403
+David Robinson,basketball,1994,All-Star,award,26,403
+Latrell Sprewell,basketball,1994,All-Star,award,26,403
+John Stockton,basketball,1994,All-Star,award,26,403
+Patrick Ewing,basketball,1993,All-Star,award,26,390
+Michael Jordan,basketball,1993,All-Star,award,26,390
+Shaquille O'Neal,basketball,1993,All-Star,award,26,390
+Scottie Pippen,basketball,1993,All-Star,award,26,390
+Mark Price,basketball,1993,All-Star,award,26,390
+Isiah Thomas,basketball,1993,All-Star,award,26,390
+Dominique Wilkins,basketball,1993,All-Star,award,26,390
+Charles Barkley,basketball,1993,All-Star,award,26,390
+Clyde Drexler,basketball,1993,All-Star,award,26,390
+Tim Hardaway,basketball,1993,All-Star,award,26,390
+Karl Malone,basketball,1993,All-Star,award,26,390
+Chris Mullin,basketball,1993,All-Star,award,26,390
+Hakeem Olajuwon,basketball,1993,All-Star,award,26,390
+David Robinson,basketball,1993,All-Star,award,26,390
+John Stockton,basketball,1993,All-Star,award,26,390
+Charles Barkley,basketball,1992,All-Star,award,27,386
+Larry Bird,basketball,1992,All-Star,award,27,386
+Patrick Ewing,basketball,1992,All-Star,award,27,386
+Michael Jordan,basketball,1992,All-Star,award,27,386
+Scottie Pippen,basketball,1992,All-Star,award,27,386
+Mark Price,basketball,1992,All-Star,award,27,386
+Isiah Thomas,basketball,1992,All-Star,award,27,386
+Dominique Wilkins,basketball,1992,All-Star,award,27,386
+Clyde Drexler,basketball,1992,All-Star,award,27,386
+Tim Hardaway,basketball,1992,All-Star,award,27,386
+Magic Johnson,basketball,1992,All-Star,award,27,386
+Karl Malone,basketball,1992,All-Star,award,27,386
+Chris Mullin,basketball,1992,All-Star,award,27,386
+Hakeem Olajuwon,basketball,1992,All-Star,award,27,386
+David Robinson,basketball,1992,All-Star,award,27,386
+John Stockton,basketball,1992,All-Star,award,27,386
+Charles Barkley,basketball,1991,All-Star,award,26,387
+Larry Bird,basketball,1991,All-Star,award,26,387
+Patrick Ewing,basketball,1991,All-Star,award,26,387
+Michael Jordan,basketball,1991,All-Star,award,26,387
+Bernard King,basketball,1991,All-Star,award,26,387
+Kevin McHale,basketball,1991,All-Star,award,26,387
+Isiah Thomas,basketball,1991,All-Star,award,26,387
+Dominique Wilkins,basketball,1991,All-Star,award,26,387
+Clyde Drexler,basketball,1991,All-Star,award,26,387
+Tim Hardaway,basketball,1991,All-Star,award,26,387
+Magic Johnson,basketball,1991,All-Star,award,26,387
+Karl Malone,basketball,1991,All-Star,award,26,387
+Chris Mullin,basketball,1991,All-Star,award,26,387
+David Robinson,basketball,1991,All-Star,award,26,387
+John Stockton,basketball,1991,All-Star,award,26,387
+Charles Barkley,basketball,1990,All-Star,award,25,381
+Larry Bird,basketball,1990,All-Star,award,25,381
+Patrick Ewing,basketball,1990,All-Star,award,25,381
+Michael Jordan,basketball,1990,All-Star,award,25,381
+Kevin McHale,basketball,1990,All-Star,award,25,381
+Scottie Pippen,basketball,1990,All-Star,award,25,381
+Isiah Thomas,basketball,1990,All-Star,award,25,381
+Dominique Wilkins,basketball,1990,All-Star,award,25,381
+Clyde Drexler,basketball,1990,All-Star,award,25,381
+Magic Johnson,basketball,1990,All-Star,award,25,381
+Karl Malone,basketball,1990,All-Star,award,25,381
+Chris Mullin,basketball,1990,All-Star,award,25,381
+Hakeem Olajuwon,basketball,1990,All-Star,award,25,381
+David Robinson,basketball,1990,All-Star,award,25,381
+John Stockton,basketball,1990,All-Star,award,25,381
+Charles Barkley,basketball,1989,All-Star,award,25,353
+Patrick Ewing,basketball,1989,All-Star,award,25,353
+Michael Jordan,basketball,1989,All-Star,award,25,353
+Moses Malone,basketball,1989,All-Star,award,25,353
+Kevin McHale,basketball,1989,All-Star,award,25,353
+Mark Price,basketball,1989,All-Star,award,25,353
+Isiah Thomas,basketball,1989,All-Star,award,25,353
+Dominique Wilkins,basketball,1989,All-Star,award,25,353
+Kareem Abdul-Jabbar,basketball,1989,All-Star,award,25,353
+Clyde Drexler,basketball,1989,All-Star,award,25,353
+Magic Johnson,basketball,1989,All-Star,award,25,353
+Karl Malone,basketball,1989,All-Star,award,25,353
+Chris Mullin,basketball,1989,All-Star,award,25,353
+Hakeem Olajuwon,basketball,1989,All-Star,award,25,353
+John Stockton,basketball,1989,All-Star,award,25,353
+Charles Barkley,basketball,1988,All-Star,award,25,332
+Larry Bird,basketball,1988,All-Star,award,25,332
+Patrick Ewing,basketball,1988,All-Star,award,25,332
+Michael Jordan,basketball,1988,All-Star,award,25,332
+Moses Malone,basketball,1988,All-Star,award,25,332
+Kevin McHale,basketball,1988,All-Star,award,25,332
+Isiah Thomas,basketball,1988,All-Star,award,25,332
+Dominique Wilkins,basketball,1988,All-Star,award,25,332
+Kareem Abdul-Jabbar,basketball,1988,All-Star,award,25,332
+Clyde Drexler,basketball,1988,All-Star,award,25,332
+Magic Johnson,basketball,1988,All-Star,award,25,332
+Karl Malone,basketball,1988,All-Star,award,25,332
+Hakeem Olajuwon,basketball,1988,All-Star,award,25,332
+Charles Barkley,basketball,1987,All-Star,award,25,335
+Larry Bird,basketball,1987,All-Star,award,25,335
+Julius Erving,basketball,1987,All-Star,award,25,335
+Michael Jordan,basketball,1987,All-Star,award,25,335
+Moses Malone,basketball,1987,All-Star,award,25,335
+Kevin McHale,basketball,1987,All-Star,award,25,335
+Isiah Thomas,basketball,1987,All-Star,award,25,335
+Dominique Wilkins,basketball,1987,All-Star,award,25,335
+Kareem Abdul-Jabbar,basketball,1987,All-Star,award,25,335
+Magic Johnson,basketball,1987,All-Star,award,25,335
+Hakeem Olajuwon,basketball,1987,All-Star,award,25,335
+Larry Bird,basketball,1986,All-Star,award,25,325
+Julius Erving,basketball,1986,All-Star,award,25,325
+Patrick Ewing,basketball,1986,All-Star,award,25,325
+Michael Jordan,basketball,1986,All-Star,award,25,325
+Moses Malone,basketball,1986,All-Star,award,25,325
+Kevin McHale,basketball,1986,All-Star,award,25,325
+Sidney Moncrief,basketball,1986,All-Star,award,25,325
+Isiah Thomas,basketball,1986,All-Star,award,25,325
+Dominique Wilkins,basketball,1986,All-Star,award,25,325
+Kareem Abdul-Jabbar,basketball,1986,All-Star,award,25,325
+Clyde Drexler,basketball,1986,All-Star,award,25,325
+Marques Johnson,basketball,1986,All-Star,award,25,325
+Magic Johnson,basketball,1986,All-Star,award,25,325
+Hakeem Olajuwon,basketball,1986,All-Star,award,25,325
+Larry Bird,basketball,1985,All-Star,award,25,320
+Julius Erving,basketball,1985,All-Star,award,25,320
+Dennis Johnson,basketball,1985,All-Star,award,25,320
+Michael Jordan,basketball,1985,All-Star,award,25,320
+Bernard King,basketball,1985,All-Star,award,25,320
+Moses Malone,basketball,1985,All-Star,award,25,320
+Sidney Moncrief,basketball,1985,All-Star,award,25,320
+Isiah Thomas,basketball,1985,All-Star,award,25,320
+Kareem Abdul-Jabbar,basketball,1985,All-Star,award,25,320
+George Gervin,basketball,1985,All-Star,award,25,320
+Magic Johnson,basketball,1985,All-Star,award,25,320
+Hakeem Olajuwon,basketball,1985,All-Star,award,25,320
+Larry Bird,basketball,1984,All-Star,award,25,310
+Julius Erving,basketball,1984,All-Star,award,25,310
+Bernard King,basketball,1984,All-Star,award,25,310
+Moses Malone,basketball,1984,All-Star,award,25,310
+Kevin McHale,basketball,1984,All-Star,award,25,310
+Sidney Moncrief,basketball,1984,All-Star,award,25,310
+Isiah Thomas,basketball,1984,All-Star,award,25,310
+Kareem Abdul-Jabbar,basketball,1984,All-Star,award,25,310
+George Gervin,basketball,1984,All-Star,award,25,310
+Magic Johnson,basketball,1984,All-Star,award,25,310
+Larry Bird,basketball,1983,All-Star,award,24,316
+Julius Erving,basketball,1983,All-Star,award,24,316
+Marques Johnson,basketball,1983,All-Star,award,24,316
+Moses Malone,basketball,1983,All-Star,award,24,316
+Sidney Moncrief,basketball,1983,All-Star,award,24,316
+Isiah Thomas,basketball,1983,All-Star,award,24,316
+Kareem Abdul-Jabbar,basketball,1983,All-Star,award,24,316
+George Gervin,basketball,1983,All-Star,award,24,316
+Magic Johnson,basketball,1983,All-Star,award,24,316
+David Thompson,basketball,1983,All-Star,award,24,316
+Gus Williams,basketball,1983,All-Star,award,24,316
+Tiny Archibald,basketball,1982,All-Star,award,25,316
+Larry Bird,basketball,1982,All-Star,award,25,316
+Julius Erving,basketball,1982,All-Star,award,25,316
+Sidney Moncrief,basketball,1982,All-Star,award,25,316
+Isiah Thomas,basketball,1982,All-Star,award,25,316
+Kareem Abdul-Jabbar,basketball,1982,All-Star,award,25,316
+George Gervin,basketball,1982,All-Star,award,25,316
+Dennis Johnson,basketball,1982,All-Star,award,25,316
+Magic Johnson,basketball,1982,All-Star,award,25,316
+Bernard King,basketball,1982,All-Star,award,25,316
+Moses Malone,basketball,1982,All-Star,award,25,316
+Gus Williams,basketball,1982,All-Star,award,25,316
+Tiny Archibald,basketball,1981,All-Star,award,23,304
+Larry Bird,basketball,1981,All-Star,award,23,304
+Julius Erving,basketball,1981,All-Star,award,23,304
+Marques Johnson,basketball,1981,All-Star,award,23,304
+Kareem Abdul-Jabbar,basketball,1981,All-Star,award,23,304
+George Gervin,basketball,1981,All-Star,award,23,304
+Dennis Johnson,basketball,1981,All-Star,award,23,304
+Moses Malone,basketball,1981,All-Star,award,23,304
+Truck Robinson,basketball,1981,All-Star,award,23,304
+Paul Westphal,basketball,1981,All-Star,award,23,304
+Tiny Archibald,basketball,1980,All-Star,award,24,287
+Larry Bird,basketball,1980,All-Star,award,24,287
+Dave Cowens,basketball,1980,All-Star,award,24,287
+Julius Erving,basketball,1980,All-Star,award,24,287
+George Gervin,basketball,1980,All-Star,award,24,287
+Elvin Hayes,basketball,1980,All-Star,award,24,287
+Moses Malone,basketball,1980,All-Star,award,24,287
+Kareem Abdul-Jabbar,basketball,1980,All-Star,award,24,287
+Dennis Johnson,basketball,1980,All-Star,award,24,287
+Marques Johnson,basketball,1980,All-Star,award,24,287
+Magic Johnson,basketball,1980,All-Star,award,24,287
+Paul Westphal,basketball,1980,All-Star,award,24,287
+Julius Erving,basketball,1979,All-Star,award,23,280
+George Gervin,basketball,1979,All-Star,award,23,280
+Elvin Hayes,basketball,1979,All-Star,award,23,280
+Moses Malone,basketball,1979,All-Star,award,23,280
+Pete Maravich,basketball,1979,All-Star,award,23,280
+Kareem Abdul-Jabbar,basketball,1979,All-Star,award,23,280
+Dennis Johnson,basketball,1979,All-Star,award,23,280
+Marques Johnson,basketball,1979,All-Star,award,23,280
+George McGinnis,basketball,1979,All-Star,award,23,280
+David Thompson,basketball,1979,All-Star,award,23,280
+Paul Westphal,basketball,1979,All-Star,award,23,280
+Dave Cowens,basketball,1978,All-Star,award,24,285
+Julius Erving,basketball,1978,All-Star,award,24,285
+George Gervin,basketball,1978,All-Star,award,24,285
+John Havlicek,basketball,1978,All-Star,award,24,285
+Elvin Hayes,basketball,1978,All-Star,award,24,285
+Moses Malone,basketball,1978,All-Star,award,24,285
+Pete Maravich,basketball,1978,All-Star,award,24,285
+Bob McAdoo,basketball,1978,All-Star,award,24,285
+Truck Robinson,basketball,1978,All-Star,award,24,285
+Rick Barry,basketball,1978,All-Star,award,24,285
+David Thompson,basketball,1978,All-Star,award,24,285
+Bill Walton,basketball,1978,All-Star,award,24,285
+Paul Westphal,basketball,1978,All-Star,award,24,285
+Dave Cowens,basketball,1977,All-Star,award,26,295
+Julius Erving,basketball,1977,All-Star,award,26,295
+George Gervin,basketball,1977,All-Star,award,26,295
+John Havlicek,basketball,1977,All-Star,award,26,295
+Elvin Hayes,basketball,1977,All-Star,award,26,295
+Pete Maravich,basketball,1977,All-Star,award,26,295
+Bob McAdoo,basketball,1977,All-Star,award,26,295
+George McGinnis,basketball,1977,All-Star,award,26,295
+Earl Monroe,basketball,1977,All-Star,award,26,295
+Kareem Abdul-Jabbar,basketball,1977,All-Star,award,26,295
+Rick Barry,basketball,1977,All-Star,award,26,295
+David Thompson,basketball,1977,All-Star,award,26,295
+Bill Walton,basketball,1977,All-Star,award,26,295
+Paul Westphal,basketball,1977,All-Star,award,26,295
+Dave Bing,basketball,1976,All-Star,award,24,238
+Dave Cowens,basketball,1976,All-Star,award,24,238
+Walt Frazier,basketball,1976,All-Star,award,24,238
+John Havlicek,basketball,1976,All-Star,award,24,238
+Elvin Hayes,basketball,1976,All-Star,award,24,238
+Bob McAdoo,basketball,1976,All-Star,award,24,238
+George McGinnis,basketball,1976,All-Star,award,24,238
+Kareem Abdul-Jabbar,basketball,1976,All-Star,award,24,238
+Tiny Archibald,basketball,1976,All-Star,award,24,238
+Rick Barry,basketball,1976,All-Star,award,24,238
+Dave Cowens,basketball,1975,All-Star,award,24,235
+Walt Frazier,basketball,1975,All-Star,award,24,235
+John Havlicek,basketball,1975,All-Star,award,24,235
+Elvin Hayes,basketball,1975,All-Star,award,24,235
+Bob McAdoo,basketball,1975,All-Star,award,24,235
+Earl Monroe,basketball,1975,All-Star,award,24,235
+Wes Unseld,basketball,1975,All-Star,award,24,235
+Kareem Abdul-Jabbar,basketball,1975,All-Star,award,24,235
+Tiny Archibald,basketball,1975,All-Star,award,24,235
+Rick Barry,basketball,1975,All-Star,award,24,235
+Dave Bing,basketball,1975,All-Star,award,24,235
+Gail Goodrich,basketball,1975,All-Star,award,24,235
+Spencer Haywood,basketball,1975,All-Star,award,24,235
+Dave Cowens,basketball,1974,All-Star,award,25,222
+Walt Frazier,basketball,1974,All-Star,award,25,222
+John Havlicek,basketball,1974,All-Star,award,25,222
+Elvin Hayes,basketball,1974,All-Star,award,25,222
+Pete Maravich,basketball,1974,All-Star,award,25,222
+Bob McAdoo,basketball,1974,All-Star,award,25,222
+Kareem Abdul-Jabbar,basketball,1974,All-Star,award,25,222
+Rick Barry,basketball,1974,All-Star,award,25,222
+Dave Bing,basketball,1974,All-Star,award,25,222
+Gail Goodrich,basketball,1974,All-Star,award,25,222
+Spencer Haywood,basketball,1974,All-Star,award,25,222
+Jerry West,basketball,1974,All-Star,award,25,222
+Dave Cowens,basketball,1973,All-Star,award,30,215
+Walt Frazier,basketball,1973,All-Star,award,30,215
+John Havlicek,basketball,1973,All-Star,award,30,215
+Elvin Hayes,basketball,1973,All-Star,award,30,215
+Pete Maravich,basketball,1973,All-Star,award,30,215
+Wes Unseld,basketball,1973,All-Star,award,30,215
+Kareem Abdul-Jabbar,basketball,1973,All-Star,award,30,215
+Tiny Archibald,basketball,1973,All-Star,award,30,215
+Rick Barry,basketball,1973,All-Star,award,30,215
+Dave Bing,basketball,1973,All-Star,award,30,215
+Wilt Chamberlain,basketball,1973,All-Star,award,30,215
+Gail Goodrich,basketball,1973,All-Star,award,30,215
+Connie Hawkins,basketball,1973,All-Star,award,30,215
+Spencer Haywood,basketball,1973,All-Star,award,30,215
+Jerry West,basketball,1973,All-Star,award,30,215
+Dave Cowens,basketball,1972,All-Star,award,28,216
+Billy Cunningham,basketball,1972,All-Star,award,28,216
+Walt Frazier,basketball,1972,All-Star,award,28,216
+John Havlicek,basketball,1972,All-Star,award,28,216
+Wes Unseld,basketball,1972,All-Star,award,28,216
+Kareem Abdul-Jabbar,basketball,1972,All-Star,award,28,216
+Wilt Chamberlain,basketball,1972,All-Star,award,28,216
+Gail Goodrich,basketball,1972,All-Star,award,28,216
+Connie Hawkins,basketball,1972,All-Star,award,28,216
+Elvin Hayes,basketball,1972,All-Star,award,28,216
+Spencer Haywood,basketball,1972,All-Star,award,28,216
+Oscar Robertson,basketball,1972,All-Star,award,28,216
+Jerry West,basketball,1972,All-Star,award,28,216
+Billy Cunningham,basketball,1971,All-Star,award,28,217
+Walt Frazier,basketball,1971,All-Star,award,28,217
+John Havlicek,basketball,1971,All-Star,award,28,217
+Earl Monroe,basketball,1971,All-Star,award,28,217
+Willis Reed,basketball,1971,All-Star,award,28,217
+Wes Unseld,basketball,1971,All-Star,award,28,217
+Kareem Abdul-Jabbar,basketball,1971,All-Star,award,28,217
+Dave Bing,basketball,1971,All-Star,award,28,217
+Wilt Chamberlain,basketball,1971,All-Star,award,28,217
+Connie Hawkins,basketball,1971,All-Star,award,28,217
+Elvin Hayes,basketball,1971,All-Star,award,28,217
+Jerry Lucas,basketball,1971,All-Star,award,28,217
+Oscar Robertson,basketball,1971,All-Star,award,28,217
+Jerry West,basketball,1971,All-Star,award,28,217
+Kareem Abdul-Jabbar,basketball,1970,All-Star,award,25,171
+Billy Cunningham,basketball,1970,All-Star,award,25,171
+Walt Frazier,basketball,1970,All-Star,award,25,171
+John Havlicek,basketball,1970,All-Star,award,25,171
+Willis Reed,basketball,1970,All-Star,award,25,171
+Oscar Robertson,basketball,1970,All-Star,award,25,171
+Elgin Baylor,basketball,1970,All-Star,award,25,171
+Connie Hawkins,basketball,1970,All-Star,award,25,171
+Elvin Hayes,basketball,1970,All-Star,award,25,171
+Jerry West,basketball,1970,All-Star,award,25,171
+Dave Bing,basketball,1969,All-Star,award,25,168
+Billy Cunningham,basketball,1969,All-Star,award,25,168
+John Havlicek,basketball,1969,All-Star,award,25,168
+Jerry Lucas,basketball,1969,All-Star,award,25,168
+Earl Monroe,basketball,1969,All-Star,award,25,168
+Willis Reed,basketball,1969,All-Star,award,25,168
+Oscar Robertson,basketball,1969,All-Star,award,25,168
+Bill Russell,basketball,1969,All-Star,award,25,168
+Wes Unseld,basketball,1969,All-Star,award,25,168
+Elgin Baylor,basketball,1969,All-Star,award,25,168
+Wilt Chamberlain,basketball,1969,All-Star,award,25,168
+Gail Goodrich,basketball,1969,All-Star,award,25,168
+Elvin Hayes,basketball,1969,All-Star,award,25,168
+Jerry West,basketball,1969,All-Star,award,25,168
+Dave Bing,basketball,1968,All-Star,award,25,151
+Wilt Chamberlain,basketball,1968,All-Star,award,25,151
+John Havlicek,basketball,1968,All-Star,award,25,151
+Jerry Lucas,basketball,1968,All-Star,award,25,151
+Willis Reed,basketball,1968,All-Star,award,25,151
+Oscar Robertson,basketball,1968,All-Star,award,25,151
+Bill Russell,basketball,1968,All-Star,award,25,151
+Elgin Baylor,basketball,1968,All-Star,award,25,151
+Jerry West,basketball,1968,All-Star,award,25,151
+Wilt Chamberlain,basketball,1967,All-Star,award,20,123
+John Havlicek,basketball,1967,All-Star,award,20,123
+Jerry Lucas,basketball,1967,All-Star,award,20,123
+Willis Reed,basketball,1967,All-Star,award,20,123
+Oscar Robertson,basketball,1967,All-Star,award,20,123
+Bill Russell,basketball,1967,All-Star,award,20,123
+Rick Barry,basketball,1967,All-Star,award,20,123
+Elgin Baylor,basketball,1967,All-Star,award,20,123
+Jerry West,basketball,1967,All-Star,award,20,123
+Wilt Chamberlain,basketball,1966,All-Star,award,20,111
+John Havlicek,basketball,1966,All-Star,award,20,111
+Jerry Lucas,basketball,1966,All-Star,award,20,111
+Willis Reed,basketball,1966,All-Star,award,20,111
+Oscar Robertson,basketball,1966,All-Star,award,20,111
+Bill Russell,basketball,1966,All-Star,award,20,111
+Rick Barry,basketball,1966,All-Star,award,20,111
+Jerry West,basketball,1966,All-Star,award,20,111
+Jerry Lucas,basketball,1965,All-Star,award,21,114
+Willis Reed,basketball,1965,All-Star,award,21,114
+Oscar Robertson,basketball,1965,All-Star,award,21,114
+Bill Russell,basketball,1965,All-Star,award,21,114
+Elgin Baylor,basketball,1965,All-Star,award,21,114
+Wilt Chamberlain,basketball,1965,All-Star,award,21,114
+Bob Pettit,basketball,1965,All-Star,award,21,114
+Jerry West,basketball,1965,All-Star,award,21,114
+Jerry Lucas,basketball,1964,All-Star,award,20,111
+Oscar Robertson,basketball,1964,All-Star,award,20,111
+Bill Russell,basketball,1964,All-Star,award,20,111
+Elgin Baylor,basketball,1964,All-Star,award,20,111
+Wilt Chamberlain,basketball,1964,All-Star,award,20,111
+Bob Pettit,basketball,1964,All-Star,award,20,111
+Jerry West,basketball,1964,All-Star,award,20,111
+Bob Cousy,basketball,1963,All-Star,award,24,117
+Oscar Robertson,basketball,1963,All-Star,award,24,117
+Bill Russell,basketball,1963,All-Star,award,24,117
+Elgin Baylor,basketball,1963,All-Star,award,24,117
+Wilt Chamberlain,basketball,1963,All-Star,award,24,117
+Bob Pettit,basketball,1963,All-Star,award,24,117
+Jerry West,basketball,1963,All-Star,award,24,117
+Paul Arizin,basketball,1962,All-Star,award,25,113
+Wilt Chamberlain,basketball,1962,All-Star,award,25,113
+Bob Cousy,basketball,1962,All-Star,award,25,113
+Bill Russell,basketball,1962,All-Star,award,25,113
+Dolph Schayes,basketball,1962,All-Star,award,25,113
+Elgin Baylor,basketball,1962,All-Star,award,25,113
+Bob Pettit,basketball,1962,All-Star,award,25,113
+Oscar Robertson,basketball,1962,All-Star,award,25,113
+Gene Shue,basketball,1962,All-Star,award,25,113
+Jerry West,basketball,1962,All-Star,award,25,113
+Paul Arizin,basketball,1961,All-Star,award,22,93
+Wilt Chamberlain,basketball,1961,All-Star,award,22,93
+Bob Cousy,basketball,1961,All-Star,award,22,93
+Bill Russell,basketball,1961,All-Star,award,22,93
+Dolph Schayes,basketball,1961,All-Star,award,22,93
+Elgin Baylor,basketball,1961,All-Star,award,22,93
+Bob Pettit,basketball,1961,All-Star,award,22,93
+Oscar Robertson,basketball,1961,All-Star,award,22,93
+Gene Shue,basketball,1961,All-Star,award,22,93
+Jerry West,basketball,1961,All-Star,award,22,93
+Paul Arizin,basketball,1960,All-Star,award,21,99
+Wilt Chamberlain,basketball,1960,All-Star,award,21,99
+Bob Cousy,basketball,1960,All-Star,award,21,99
+Bill Russell,basketball,1960,All-Star,award,21,99
+Dolph Schayes,basketball,1960,All-Star,award,21,99
+Bill Sharman,basketball,1960,All-Star,award,21,99
+George Yardley,basketball,1960,All-Star,award,21,99
+Elgin Baylor,basketball,1960,All-Star,award,21,99
+Bob Pettit,basketball,1960,All-Star,award,21,99
+Gene Shue,basketball,1960,All-Star,award,21,99
+Paul Arizin,basketball,1959,All-Star,award,20,92
+Bob Cousy,basketball,1959,All-Star,award,20,92
+Bill Russell,basketball,1959,All-Star,award,20,92
+Dolph Schayes,basketball,1959,All-Star,award,20,92
+Bill Sharman,basketball,1959,All-Star,award,20,92
+Elgin Baylor,basketball,1959,All-Star,award,20,92
+Larry Foust,basketball,1959,All-Star,award,20,92
+Bob Pettit,basketball,1959,All-Star,award,20,92
+Gene Shue,basketball,1959,All-Star,award,20,92
+George Yardley,basketball,1959,All-Star,award,20,92
+Paul Arizin,basketball,1958,All-Star,award,20,99
+Bob Cousy,basketball,1958,All-Star,award,20,99
+Neil Johnston,basketball,1958,All-Star,award,20,99
+Bill Russell,basketball,1958,All-Star,award,20,99
+Dolph Schayes,basketball,1958,All-Star,award,20,99
+Bill Sharman,basketball,1958,All-Star,award,20,99
+Larry Foust,basketball,1958,All-Star,award,20,99
+Bob Pettit,basketball,1958,All-Star,award,20,99
+Gene Shue,basketball,1958,All-Star,award,20,99
+George Yardley,basketball,1958,All-Star,award,20,99
+Paul Arizin,basketball,1957,All-Star,award,21,99
+Bob Cousy,basketball,1957,All-Star,award,21,99
+Harry Gallatin,basketball,1957,All-Star,award,21,99
+Neil Johnston,basketball,1957,All-Star,award,21,99
+Dolph Schayes,basketball,1957,All-Star,award,21,99
+Bill Sharman,basketball,1957,All-Star,award,21,99
+Ed Macauley,basketball,1957,All-Star,award,21,99
+Bob Pettit,basketball,1957,All-Star,award,21,99
+George Yardley,basketball,1957,All-Star,award,21,99
+Paul Arizin,basketball,1956,All-Star,award,21,92
+Bob Cousy,basketball,1956,All-Star,award,21,92
+Harry Gallatin,basketball,1956,All-Star,award,21,92
+Neil Johnston,basketball,1956,All-Star,award,21,92
+Ed Macauley,basketball,1956,All-Star,award,21,92
+Dolph Schayes,basketball,1956,All-Star,award,21,92
+Bill Sharman,basketball,1956,All-Star,award,21,92
+Larry Foust,basketball,1956,All-Star,award,21,92
+Bob Pettit,basketball,1956,All-Star,award,21,92
+George Yardley,basketball,1956,All-Star,award,21,92
+Paul Arizin,basketball,1955,All-Star,award,21,105
+Bob Cousy,basketball,1955,All-Star,award,21,105
+Harry Gallatin,basketball,1955,All-Star,award,21,105
+Neil Johnston,basketball,1955,All-Star,award,21,105
+Ed Macauley,basketball,1955,All-Star,award,21,105
+Dolph Schayes,basketball,1955,All-Star,award,21,105
+Bill Sharman,basketball,1955,All-Star,award,21,105
+Larry Foust,basketball,1955,All-Star,award,21,105
+Bob Pettit,basketball,1955,All-Star,award,21,105
+Jim Pollard,basketball,1955,All-Star,award,21,105
+George Yardley,basketball,1955,All-Star,award,21,105
+Bob Cousy,basketball,1954,All-Star,award,21,110
+Harry Gallatin,basketball,1954,All-Star,award,21,110
+Neil Johnston,basketball,1954,All-Star,award,21,110
+Ed Macauley,basketball,1954,All-Star,award,21,110
+Dolph Schayes,basketball,1954,All-Star,award,21,110
+Bill Sharman,basketball,1954,All-Star,award,21,110
+Bob Davies,basketball,1954,All-Star,award,21,110
+Larry Foust,basketball,1954,All-Star,award,21,110
+George Mikan,basketball,1954,All-Star,award,21,110
+Jim Pollard,basketball,1954,All-Star,award,21,110
+Bob Cousy,basketball,1953,All-Star,award,21,124
+Harry Gallatin,basketball,1953,All-Star,award,21,124
+Neil Johnston,basketball,1953,All-Star,award,21,124
+Ed Macauley,basketball,1953,All-Star,award,21,124
+Dolph Schayes,basketball,1953,All-Star,award,21,124
+Bill Sharman,basketball,1953,All-Star,award,21,124
+Bob Davies,basketball,1953,All-Star,award,21,124
+Larry Foust,basketball,1953,All-Star,award,21,124
+George Mikan,basketball,1953,All-Star,award,21,124
+Paul Arizin,basketball,1952,All-Star,award,22,116
+Bob Cousy,basketball,1952,All-Star,award,22,116
+Joe Fulks,basketball,1952,All-Star,award,22,116
+Harry Gallatin,basketball,1952,All-Star,award,22,116
+Ed Macauley,basketball,1952,All-Star,award,22,116
+Dolph Schayes,basketball,1952,All-Star,award,22,116
+Max Zaslofsky,basketball,1952,All-Star,award,22,116
+Bob Davies,basketball,1952,All-Star,award,22,116
+Larry Foust,basketball,1952,All-Star,award,22,116
+George Mikan,basketball,1952,All-Star,award,22,116
+Jim Pollard,basketball,1952,All-Star,award,22,116
+Paul Arizin,basketball,1951,All-Star,award,20,135
+Bob Cousy,basketball,1951,All-Star,award,20,135
+Joe Fulks,basketball,1951,All-Star,award,20,135
+Harry Gallatin,basketball,1951,All-Star,award,20,135
+Ed Macauley,basketball,1951,All-Star,award,20,135
+Dolph Schayes,basketball,1951,All-Star,award,20,135
+Ralph Beard,basketball,1951,All-Star,award,20,135
+Bob Davies,basketball,1951,All-Star,award,20,135
+Larry Foust,basketball,1951,All-Star,award,20,135
+Alex Groza,basketball,1951,All-Star,award,20,135
+George Mikan,basketball,1951,All-Star,award,20,135
+Jim Pollard,basketball,1951,All-Star,award,20,135
